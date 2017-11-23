@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <link rel="stylesheet" href="http://github-profile.com/dist/gh-profile-card.min.css" />
+  <script type="text/javascript" src="http://github-profile.com/dist/gh-profile-card.min.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ site.title }} - {% endif %}{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="keywords" content="unix, linux, gnu, manjaro, arch, kibojoe, jwm">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic">
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/pygment_style.css">
+    <script src="/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    {% include analytics.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">
+          <a href="/index.html">Kibojoe Linux</a>
+        </h1>
+        <p class="header">Minimal, Fast and Elegant!</p>
+
+        <!--Mobile friendly links-->
+        <p class="view">
+          <a href="/news.html">Read The News</a>
+        </p>
+        
+        <!--Desktop friendly links-->
+        <ul>
+          <li><a href="/news.html"><strong>News</strong></a></li>
+          <li><a href="/team.html"><strong>Team</strong></a></li>          
+          <li><a href="/download.html"><strong>Download</strong></a></li>
+          <li><a href="/repository.html"><strong>Repository</strong></a></li>
+          <li><a href="/support.html"><strong>Support</strong></a></li>
+          <li><a href="https://github.com/kibojoe/build/issues" target="_blank"><strong>Issues</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+    </div>
+    <footer>
+      <p>Hosted on <a href="http://pages.github.com">GitHub Pages</a> using Modernist theme by <a href="https://github.com/orderedlist">orderedlist</a>,
+      customized by Holmes.</p>
+      <a href="https://github.com/kibojoe" target="_blank"><img title="GitHub Kibojoe Linux" alt="Github" height="30"
+      src="/img/github.png" width="30"></a> <a href="https://sourceforge.net/projects/kibojoe/" target="_blank"><img title="SourceForge Kibojoe Linux" alt="SourceForge" height="30"
+      src="/img/sf.png" width="30"></a> <a href="https://manjaro.org/" target="_blank"><img title="Manjaro Linux" alt="Manjaro Linux" height="28"
+      src="/img/manjaro.png" width="28"></a> <a href="http://joewing.net/projects/jwm" target="_blank"><img title="JWM" alt="JWM" height="28"
+      src="/img/jwm.png" width="54"></a> <a href="https://www.archlinux.org" target="_blank"><img title="ArchLinux" alt="ArchLinux" height="30"
+      src="/img/arch.png" width="30"></a>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+  </body>
+</html>

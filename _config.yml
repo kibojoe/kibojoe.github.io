@@ -1,0 +1,20 @@
+# custom variables
+title:              Kibojoe Linux
+url:                http://kibojoe.org/
+version:            2.12.4
+win_version:        2.12.4
+osx_version:        2.10.2
+
+# permalinks
+permalink:          /news/:title.html
+
+exclude:            ["README.md"]
+
+markdown:           kramdown
+highlighter:        rouge
+feed:
+    path: atom.xml
+gems:
+    - jekyll-sitemap
+    - jekyll-mentions
+    - jekyll-feed
