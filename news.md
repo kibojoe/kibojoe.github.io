@@ -5,7 +5,6 @@ title: News
 
 <h3>News Kibojoe Linux, Manjaro Linux and JWM</h3>
 
-- tets
 - [2017-11-16] Kibojoe Linux 17.09rc6 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=99&p=260#p260" target="_blank">here</a>.
 - [2017-11-12] Stable Update I Manjaro Linux - Kernels, Plasma5, END OF LIFE for 32bit support , <a href="https://manjaro.org/2017/11/13/stable-update-2017-11-12-kernels-plasma5-deepin-cinnamon-end-of-life-for-32bit-support/" target="_blank">here</a>.
 - [2017-11-04] Stable Update I Manjaro Linux - Kernels, Gnome, Deepin, Mate, Mesa, Libreoffice, <a href="https://manjaro.org/2017/11/04/stable-update-2017-11-04-kernels-gnome-deepin-mate-mesa-libreoffice/" target="_blank">here</a>.
