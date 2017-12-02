@@ -45,7 +45,7 @@ Code 21217
             <td>ISO Image</td><td><a href="https://sourceforge.net/projects/kibojoe/files/17.09/Code%2021217/" target="_blank">SourceForge</a></td>
           </tr>
           <tr>
-            <td>ISO Image Torrent</td><td><a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/" target="_blank">no information</a></td>
+            <td>ISO Image Torrent</td><td><a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/17.09/" target="_blank">SourceForge</a></td>
           </tr>
           <tr>
             <td>md5sum</td><td>427b8697ca08c9eee423d10bfc7a5ec5</td>
