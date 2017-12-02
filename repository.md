@@ -11,7 +11,7 @@ title: Repository
 
 <h4>✓General Updates</h4>
 
-Testing Update Kibojoe Linux 17.09rc5 <a href="http://forum.kibojoe.org/viewtopic.php?f=11&p=151#p94" target="_blank">[2017-11-2]</a> 
+Stable Update Kibojoe Linux 17.09final <a href="http://forum.kibojoe.org/viewtopic.php?f=9&t=51" target="_blank">[2017-12-2]</a> 
 
 <h4>✓Kibojoe Linux on Github</h4>
 
