@@ -5,7 +5,7 @@ title: Download
 
 <h3>Kibojoe Linux download</h3>
 
-<h4>✓ChangeLog 17.09final</h4>
+<h4>✓Change Current Log 17.09final</h4>
 
 Code 21217
 
