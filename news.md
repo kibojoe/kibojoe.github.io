@@ -6,7 +6,7 @@ title: News
 <h3>News Kibojoe Linux, Manjaro Linux and JWM</h3>
 
 - [2017-12-28] Stable Update I Manjaro Linux - Linux414, Calamares, Xorg-Server, Grub-Live-Theme, <a href="https://manjaro.org/2017/12/28/stable-update-2017-12-28-linux414-calamares-xorg-server-grub-live-theme/" target="_blank">here</a>.
-- [2017-12-26] Stable Update I Manjaro Linux - Kernels, Calamares, Thunderbird, XFCE4-GTK3, Xorg-Server, QT, <a href="https://manjaro.org/2017/12/26/stable-update-2017-12-26-kernels-calamares-thunderbird-xfce4-gtk3-xorg-server-qt/" target="_blank">here</a>.
+- [2017-12-26] Stable Update I Manjaro Linux - Kernels, Calamares, XFCE4-GTK3, Xorg-Server, QT, <a href="https://manjaro.org/2017/12/26/stable-update-2017-12-26-kernels-calamares-thunderbird-xfce4-gtk3-xorg-server-qt/" target="_blank">here</a>.
 - [2017-12-23] Stable Update I Manjaro Linux - Kernels, KDE-Apps, Cinnamon, Deepin, Xorg, LibreOffice, <a href="https://manjaro.org/2017/12/23/stable-update-2017-12-23-kernels-kde-apps-cinnamon-deepin-xorg-libreoffice/" target="_blank">here</a>.
 - [2017-12-16] Stable Update I Manjaro Linux - Kernels, Mesa, Deepin, Firefox, Python, Haskell, <a href="https://manjaro.org/2017/12/16/stable-update-2017-12-16-kernels-mesa-deepin-firefox-python-haskell/" target="_blank">here</a>.
 - [2017-12-03] Stable Update I Manjaro Linux - Kernels, Mesa, Firefox, Thunderbird, Plasma5, <a href="https://manjaro.org/2017/12/03/stable-update-2017-12-03-kernels-mesa-firefox-thunderbird-plasma5/" target="_blank">here</a>.
