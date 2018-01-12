@@ -14,7 +14,7 @@ Code 12118
 - New Collection Wallpapers Dunes and Moon,
 - New DockAppJWM, made with tray JWM.
 - New LeaveJWM, made with Rofi, 
-- New Window Buttons JWM Flat Theme,
+- New Window Buttons JWM Flat-SX Theme,
 - New GTK Theme Numix-SX-Dark,
 - New Icon Theme Surfn-Mint-X-Grey,
 - Using Nitrogen, a background browser and setter for X windows,
