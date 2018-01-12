@@ -5,6 +5,7 @@ title: News
 
 <h3>News Kibojoe Linux, Manjaro Linux and JWM</h3>
 
+- [2018-01-12] Kibojoe Linux 18.02rc1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=115&p=290#p290" target="_blank">here</a>.
 - [2018-01-07] Stable Update I Manjaro Linux - Browsers, Nvidia, PHP, Compiz, Adapta, <a href="https://manjaro.org/2018/01/07/stable-update-2018-01-07-browsers-nvidia-php-compiz-adapta/" target="_blank">here</a>.
 - [2018-01-05] Stable Update I Manjaro Linux - Kernels, KPTI, Plasma, Calamares, TLP, <a href="https://manjaro.org/2018/01/05/stable-update-2018-01-05-kernels-kpti-plasma-calamares-tlp/" target="_blank">here</a>.
 - [2017-12-31] Stable Update I Manjaro Linux - Kernels, Xorg-Server, Mesa, Compiz, Wine, Firefox, <a href="https://manjaro.org/2017/12/31/stable-update-2017-12-31-kernels-xorg-server-mesa-compiz-wine-firefox/" target="_blank">here</a>.
