@@ -5,24 +5,27 @@ title: Download
 
 <h3>Kibojoe Linux download</h3>
 
-<h4>✓Change current log 17.09final</h4>
+<h4>✓Change current log 18.02rc1</h4>
 
-Code 21217
+Code 12118
 
-- JWM 2.3.7-1
-- Kernel 4.9.65-1
-- Backup Format USB Tool (BFUSBTool)
-- Pacli Package Manager (Pacli)
-- System Cleanup GNU/Linux (SysClean)
-- Configuration Tool for JWM (JWMConf)
-- Kibojoe JWM Post Installation (KJWMPost)
-- Configuration Tool for Touchpad/Moniotr (TouchMon)
-- Information System GNU/Linux (IS)
-- Kernel Driver User Settings Manager (KDUSM)
-- File Locate System (FLocate)
-- Theme JWM (JWM DarkBlue
-- Theme LXDM DarkBlueSimple
-- Collection Wallpapers Moon Walkers
+- New JWM Theme SX-Dark,
+- New LXDM Theme SX-Dark-Simple,
+- New Collection Wallpapers Dunes and Moon,
+- New DockAppJWM, made with tray JWM.
+- New LeaveJWM, made with Rofi, 
+- New Window Buttons JWM Flat Theme,
+- New GTK Theme Numix-SX-Dark,
+- New Icon Theme Surfn-Mint-X-Grey,
+- Using Nitrogen, a background browser and setter for X windows,
+- Using GPicView, a simple and fast image viewer for X,
+- Using Light, program to easily change brightness on backlight-controllers,
+- Using Gsimplecal, a simple and lightweight GTK calendar,
+- Using JWM 2.3.7-1,
+- Using Kernel 414,
+- Update User Orientation Guide,
+- General review CLI Utilities,
+- Packages updates and some corrections (Stable Update Manjaro 2018-01-07).
 
 <h4>✓Stable version</h4>
 <table>
@@ -68,27 +71,31 @@ Code 21217
             <th>ID</th><th>Information</th>
           </tr>
           <tr>
-            <td>Kibojoe Linux</td><td>no information</td>
+            <td>Kibojoe Linux</td><td>18.02rc1</td>
           </tr>
           <tr>
-            <td>Codename</td><td>no information</td>
+            <td>Codename</td><td>Vai-Vai</td>
           </tr>
           <tr>
-            <td>Code</td><td>no information</td>
+            <td>Code</td><td>12118</td>
           </tr>
           <tr>
-            <td>Architecture</td><td>no information</td>
+            <td>Architecture</td><td>x86_64</td>
           </tr>
           <tr>
-            <td>ISO Image</td><td><a href="https://sourceforge.net/projects/kibojoe/" target="_blank">no information</a></td>
+            <td>ISO Image</td><td><a href="https://sourceforge.net/projects/kibojoe/files/18.02/Code%2012118/" target="_blank">SourceForge</a></td>
           </tr>
           <tr>
-            <td>md5sum</td><td>no information</td>
+            <td>md5sum</td><td>9c83736f6ac90426f7797d750176f8d2</td>
           </tr>
           <tr>
             <td>Help</td><td><a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a></td>
           </tr>
           <tr>
-            <td>Build Date</td><td>no information</td>
+            <td>Build Date</td><td>2018-01-12</td>
           </tr>
         </tbody></table>
+
+<a href="http://www.auplod.com/u/oupadla2f00.png"><img src="/img/img3.png" width="320" height="210" target="_blank"></a>
+
+<a href="http://www.auplod.com/u/dlopuaa2f01.png"><img src="/img/img4.png" width="320" height="210" target="_blank"></a>
