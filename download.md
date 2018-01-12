@@ -22,7 +22,7 @@ Code 12118
 - Using Light, program to easily change brightness on backlight-controllers,
 - Using Gsimplecal, a simple and lightweight GTK calendar,
 - Using JWM 2.3.7-1,
-- Using Kernel 414,
+- Using Kernel Linux414,
 - Update User Orientation Guide,
 - General review CLI Utilities,
 - Packages updates and some corrections (Stable Update Manjaro 2018-01-07).
