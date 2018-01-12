@@ -23,8 +23,11 @@ Code 12118
 - Using Gsimplecal, a simple and lightweight GTK calendar,
 - Using JWM 2.3.7-1,
 - Using Kernel Linux414,
-- Update User Orientation Guide,
+- Remove Feh,
+- Add Rofi, Gsimplecal, GPicView and Nitrogen,
+- Add option in menu JWM "Places" and "Leave",
 - General review CLI Utilities,
+- Update User Orientation Guide,
 - Packages updates and some corrections (Stable Update Manjaro 2018-01-07).
 
 <h4>✓Stable version</h4>
