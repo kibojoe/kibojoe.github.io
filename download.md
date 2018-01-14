@@ -10,7 +10,7 @@ title: Download
 Code 12118
 
 - Remove Feh,
-- Add Rofi, Gsimplecal, GPicView and Nitrogen,
+- Add Rofi, Light, Gsimplecal, GPicView and Nitrogen,
 - New JWM Theme SX-Dark,
 - New LXDM Theme SX-Dark-Simple,
 - New Collection Wallpapers Dunes and Moon,
