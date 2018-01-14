@@ -19,6 +19,7 @@ Code 12118
 - New Window Buttons JWM Flat-SX Theme,
 - New GTK Theme Numix-SX-Dark,
 - New Icon Theme Surfn-Mint-X-Grey,
+- New Mouse Cursor Theme Bridge,
 - Using Nitrogen, a background browser and setter for X windows,
 - Using GPicView, a simple and fast image viewer for X,
 - Using Light, program to easily change brightness on backlight-controllers,
