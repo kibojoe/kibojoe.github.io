@@ -5,31 +5,17 @@ title: Download
 
 <h3>Kibojoe Linux download</h3>
 
-<h4>✓Change current log 18.02rc1</h4>
+<h4>✓Change current log 18.02rc2</h4>
 
-Code 12118
+Code 23118
 
-- Remove Feh,
-- Add Rofi, Light, Gsimplecal, GPicView and Nitrogen,
-- New JWM Theme SX-Dark,
-- New LXDM Theme SX-Dark-Simple,
-- New Collection Wallpapers Dunes and Moon,
-- New DockAppJWM, made with tray JWM.
-- New LeaveJWM, made with Rofi, 
-- New Window Buttons JWM Flat-SX Theme,
-- New GTK Theme Numix-SX-Dark,
-- New Icon Theme Surfn-Mint-X-Grey,
-- New Mouse Cursor Theme Bridge,
-- Using Nitrogen, a background browser and setter for X windows,
-- Using GPicView, a simple and fast image viewer for X,
-- Using Light, program to easily change brightness on backlight-controllers,
-- Using Gsimplecal, a simple and lightweight GTK calendar,
-- Using JWM 2.3.7-1,
-- Using Kernel Linux414,
-- Add option in menu JWM "Places" and "Leave",
-- General review CLI Utilities,
-- Update User Orientation Guide,
-- Packages updates and some corrections (Stable Update Manjaro 2018-01-07).
+- Fixed some errors in JWM codification (thank you jlribeiro - Manjaro Brasil),
+- Fixed using the monitor brightness keys (thank you jlribeiro - Manjaro Brasil),
+- Fixed some errors in Pacli Package Manager codification (thank you excalibur1234 - Manjaro Linux),
+- Fixed some errors notify-send and cron,
+- upnotifier script will look for updates every two hours,
+- gtk3-classic replace gtk3,
+- Packages updates and some corrections (Stable Update Manjaro 2018-01-19).
 
 <h4>✓Stable version</h4>
 <table>
@@ -75,28 +61,28 @@ Code 12118
             <th>ID</th><th>Information</th>
           </tr>
           <tr>
-            <td>Kibojoe Linux</td><td>18.02rc1</td>
+            <td>Kibojoe Linux</td><td>18.02rc2</td>
           </tr>
           <tr>
             <td>Codename</td><td>Vai-Vai</td>
           </tr>
           <tr>
-            <td>Code</td><td>12118</td>
+            <td>Code</td><td>23118</td>
           </tr>
           <tr>
             <td>Architecture</td><td>x86_64</td>
           </tr>
           <tr>
-            <td>ISO Image</td><td><a href="https://sourceforge.net/projects/kibojoe/files/18.02/Code%2012118/" target="_blank">SourceForge</a></td>
+            <td>ISO Image</td><td><a href="https://sourceforge.net/projects/kibojoe/files/18.02/Code%2023118/" target="_blank">SourceForge</a></td>
           </tr>
           <tr>
-            <td>md5sum</td><td>9c83736f6ac90426f7797d750176f8d2</td>
+            <td>md5sum</td><td>a8c2de55548eab002a3d8c80973062e4</td>
           </tr>
           <tr>
             <td>Help</td><td><a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a></td>
           </tr>
           <tr>
-            <td>Build Date</td><td>2018-01-12</td>
+            <td>Build Date</td><td>2018-01-23</td>
           </tr>
         </tbody></table>
 
