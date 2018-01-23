@@ -9,9 +9,9 @@ title: Download
 
 Code 23118
 
-- Fixed some errors in JWM codification (thank you jlribeiro - Manjaro Brasil),
-- Fixed using the monitor brightness keys (thank you jlribeiro - Manjaro Brasil),
-- Fixed some errors in Pacli Package Manager codification (thank you excalibur1234 - Manjaro Linux),
+- Fixed some errors in JWM codification (thank you <strong>jlribeiro</strong> - Manjaro Brasil),
+- Fixed using the monitor brightness keys (thank you <strong>jlribeiro</strong> - Manjaro Brasil),
+- Fixed some errors in Pacli Package Manager codification (thank you <strong>excalibur1234</strong> - Manjaro Linux),
 - Fixed some errors notify-send and cron,
 - upnotifier script will look for updates every two hours,
 - gtk3-classic replace gtk3,
