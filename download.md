@@ -13,6 +13,7 @@ Code 23118
 - Fixed using the monitor brightness keys (thank you <strong>jlribeiro</strong> - Manjaro Brasil),
 - Fixed some errors in Pacli Package Manager codification (thank you <strong>excalibur1234</strong> - Manjaro Linux),
 - Fixed some errors notify-send and cron,
+- Adjustments in Theme Live Boot,
 - upnotifier script will look for updates every two hours,
 - gtk3-classic replace gtk3,
 - Packages updates and some corrections (Stable Update Manjaro 2018-01-19).
