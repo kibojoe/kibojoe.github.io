@@ -5,6 +5,7 @@ title: News
 
 <h3>News Kibojoe Linux, Manjaro Linux and JWM</h3>
 
+- [2018-01-26] Stable Update I Manjaro Linux - Extramodules, Nvidia, Wine, Haskell, Python, <a href="https://forum.manjaro.org/t/stable-update-2018-01-26-extramodules-nvidia-wine-haskell-python/39059" target="_blank">here</a>.
 - [2018-01-23] Kibojoe Linux 18.02rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=128&p=339#p339" target="_blank">here</a>.
 - [2018-01-19] Stable Update I Manjaro Linux - Kernels, KDE Apps & Framework, Browsers, Virtualbox, <a href="https://manjaro.org/2018/01/19/stable-update-2018-01-19-kernels-kde-apps-framework-browsers-virtualbox-systemd-mesa/" target="_blank">here</a>.
 - [2018-01-12] Stable Update I Manjaro Linux - Kernels, Microcodes, Nvidia, Firefox, Boost, Cleanup, <a href="https://manjaro.org/2018/01/12/stable-update-2018-01-12-kernels-microcodes-nvidia-firefox-boost-cleanup/" target="_blank">here</a>.
