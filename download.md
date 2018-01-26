@@ -9,8 +9,8 @@ title: Download
 
 Code 23118
 
-- Fixed some errors in JWM codification (thank you <strong>jlribeiro</strong> - Manjaro Brasil),
-- Fixed using the monitor brightness keys (thank you <strong>jlribeiro</strong> - Manjaro Brasil),
+- Fixed some errors in JWM codification (thank you <strong>jlribeiro</strong> - Kibojoe Linux),
+- Fixed using the monitor brightness keys (thank you <strong>jlribeiro</strong> - Kibojoe Linux),
 - Fixed some errors in Pacli Package Manager codification (thank you <strong>excalibur1234</strong> - Manjaro Linux),
 - Fixed some errors notify-send and cron,
 - Adjustments in Theme Live Boot,
