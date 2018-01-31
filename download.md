@@ -45,6 +45,9 @@ Code 23118
             <td>md5sum</td><td>427b8697ca08c9eee423d10bfc7a5ec5</td>
           </tr>
           <tr>
+            <td>Size</td><td>969.9MB</td>
+          </tr>
+          <tr>
             <td>Help</td><td><a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a></td>
           </tr>
           <tr>
@@ -78,6 +81,9 @@ Code 23118
           </tr>
           <tr>
             <td>md5sum</td><td>a8c2de55548eab002a3d8c80973062e4</td>
+          </tr>
+          <tr>
+            <td>Size</td><td>946.2MB</td>
           </tr>
           <tr>
             <td>Help</td><td><a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a></td>
