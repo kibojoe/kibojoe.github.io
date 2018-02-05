@@ -94,6 +94,6 @@ Code 23118
           </tr>
         </tbody></table>
 
-<a href="http://www.auplod.com/u/oupadla2f00.png"><img width="320" height="210" target="_blank"></a>
+<img src="http://www.auplod.com/u/oupadla2f00.png" width="320" height="210" target="_blank">
 
 <a href="http://www.auplod.com/u/dlopuaa2f01.png"><img width="320" height="210" target="_blank"></a>
