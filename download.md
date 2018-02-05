@@ -21,12 +21,6 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
-| **Command** | **Description** |
-| ---         | ---             |
-| git status  | List all new or modified files |
-| ---         | ---             |
-| git diff    | Show file differences that haven't been staged |
-
 <table>
           <tr>
             <th>ID</th><th>Information</th>
@@ -47,7 +41,7 @@ Code 23118
             <td>ISO Image</td><td><a href="https://sourceforge.net/projects/kibojoe/files/17.09/Code%2021217/" target="_blank">SourceForge</a></td>
           </tr>
           <tr>
-            <td>ISO Image Torrent</td><td><a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/17.09/" target="_blank">SourceForge</a></td>
+            <td>ISO Image Torrent</td>		<td><a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/17.09/" target="_blank">SourceForge</a></td>
           </tr>
           <tr>
             <td>md5sum</td><td>427b8697ca08c9eee423d10bfc7a5ec5</td>
