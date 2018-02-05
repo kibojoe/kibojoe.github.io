@@ -28,7 +28,7 @@ Code 23118
 | git diff    | Show file differences that haven't been staged |
 
 <table>
-          <tbody><tr>
+          <tr>
             <th>ID</th><th>Information</th>
           </tr>
           <tr>
@@ -61,7 +61,6 @@ Code 23118
           <tr>
             <td>Build Date</td><td>2017-12-02</td>
           </tr>
-        </tbody>
 </table>
         
 <a href='http://www.auplod.com/u/ldauop99a7d.png' target='_blank'><img src='http://www.auplod.com/u/ldauop99a7d.png' width='450' height='250'/></a>
