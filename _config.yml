@@ -9,7 +9,7 @@ name: Kibojoe Linux
 description: Minimal, Fast and Elegant!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
- avatar: http://www.auplod.com/u/luodapa4094.png
+avatar: http://www.auplod.com/u/luodapa4094.png
 
 #
 # Flags below are optional
@@ -48,7 +48,7 @@ url: http://kibojoe.org
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: "https://holmeslinux.github.io"
+# baseurl: "http://kibojoe.org"
 
 # Pagination
 # Set the number of posts per page
