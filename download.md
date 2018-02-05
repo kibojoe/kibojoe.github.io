@@ -21,6 +21,14 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
+<div class="progress" id="shortfall"></div>
+
+|                                               | USD                                                     |
+|:----------------------------------------------|:-------------------------------------------------------:|
+|Operating expenses estimate, p.a.              |<span id="d-yearly"></span>                              |
+|Reserve, 1.5a                                  |<span id="d-reserve"></span>                             |
+|Last update                                    |<span id="d-updated"></span>                             |
+
 Kibojoe Linux		17.09final
 Codename	        MUG
 Code			21217
