@@ -21,11 +21,28 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Tables</th>
+    <th class="tg-baqh">Are</th>
+    <th class="tg-lqy6">Cool</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">col 1 is</td>
+    <td class="tg-baqh">left-aligned</td>
+    <td class="tg-lqy6">$1600</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">col 2 is</td>
+    <td class="tg-baqh">centered</td>
+    <td class="tg-lqy6">$12</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">col 3 is</td>
+    <td class="tg-baqh">right-aligned</td>
+    <td class="tg-lqy6">$1</td>
+  </tr>
+</table>
  
 <table>
           <tbody><tr>
