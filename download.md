@@ -56,9 +56,9 @@ Code 23118
           </tr>
         </tbody></table>
 
-<a href="http://www.auplod.com/u/ldauop99a7d.png"><img src="/img/img1.png" width="320" height="210" target="_blank"></a>
+<a href="http://www.auplod.com/u/ldauop99a7d.png"><img width="320" height="210" target="_blank"></a>
 
-<a href="http://www.auplod.com/u/udpoal99a7e.png"><img src="/img/img2.png" width="320" height="210" target="_blank"></a>
+<a href="http://www.auplod.com/u/udpoal99a7e.png"><img width="320" height="210" target="_blank"></a>
 
 <h4>✓Testing version</h4>
 <table>
@@ -94,6 +94,6 @@ Code 23118
           </tr>
         </tbody></table>
 
-<a href="http://www.auplod.com/u/oupadla2f00.png"><img src="/img/img3.png" width="320" height="210" target="_blank"></a>
+<a href="http://www.auplod.com/u/oupadla2f00.png"><img width="320" height="210" target="_blank"></a>
 
-<a href="http://www.auplod.com/u/dlopuaa2f01.png"><img src="/img/img4.png" width="320" height="210" target="_blank"></a>
+<a href="http://www.auplod.com/u/dlopuaa2f01.png"><img width="320" height="210" target="_blank"></a>
