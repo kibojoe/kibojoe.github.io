@@ -21,10 +21,10 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
-Kibojoe Linux		17.09final\s\s
-Codename		MUG\s\s
-Code			21217\s\s
-Architecture		x86_64\s\s
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 <table>
           <tbody><tr>
