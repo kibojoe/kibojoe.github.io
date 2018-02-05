@@ -23,7 +23,7 @@ Code 23118
 
 <table>
           <tr>
-            <th>ID</th><th>Information</th>
+            <th><strong>ID</strong></th><th><strong>Information</strong></th>
           </tr>
           <tr>
             <th>Kibojoe Linux</th><th>17.09final</th>
