@@ -21,13 +21,16 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
-Cabeçalho Um	 | Cabeçalho Dois
----------------	 | --------------
-Célula Um    	 | Célula Dois
-Célula Três  	 | Célula Quatro
+ID			Information
+&nbsp;
+Kibojoe Linux		17.09final
+&nbsp;
+Codename		MUG
+&nbsp;
+Code			21217
 
 <table>
-          <tbody><tr>
+          <tr>
             <td>ID</td><td>Information</td>
           </tr>
           <tr>
@@ -60,7 +63,7 @@ Célula Três  	 | Célula Quatro
           <tr>
             <td>Build Date</td><td>2017-12-02</td>
           </tr>
-</tbody></table>
+</table>
         
 <a href='http://www.auplod.com/u/ldauop99a7d.png' target='_blank'><img src='http://www.auplod.com/u/ldauop99a7d.png' width='450' height='250'/></a>
 
