@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Team
+permalink: /team/
 ---
 
 <h3>The Kibojoe Linux Maintenance Team</h3>

@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Support
+permalink: /support/
 ---
 
 <h3>Support and Documentations Kibojoe Linux</h3>

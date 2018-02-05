@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Download
+permalink: /download/
 ---
 
 <h3>Kibojoe Linux download</h3>

@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Repository
+permalink: /repository/
 ---
 
 <h3>Kibojoe Linux Package Repository</h3>
