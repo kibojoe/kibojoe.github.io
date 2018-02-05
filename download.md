@@ -8,7 +8,7 @@ permalink: /download/
 
 <h4>✓Change current log 18.02rc2</h4>
 
-Code 23117
+Code 23118
 
 - Fixed some errors in JWM codification (thank you <strong>jlribeiro</strong> - Kibojoe Linux),
 - Fixed using the monitor brightness keys (thank you <strong>jlribeiro</strong> - Kibojoe Linux),
