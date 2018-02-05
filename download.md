@@ -19,7 +19,63 @@ Code 23118
 - gtk3-classic replace gtk3,
 - Packages updates and some corrections (Stable Update Manjaro 2018-01-19).
 
+<a id="download" name="download"></a> 
+<div class="row">
+    <div>
+        <h1>SwagArch GNU/Linux 18.02</h1>
+        <h2>Change Log:</h2>
+        <ul>
+            <li>[BugFix]Problem with "lock screen" in whisker menu #68</li>
+            <li>[Change request]error: missing dependency for 'swagarch-base-skel' #67</li>
+            <li>update to Calamares V.3.1.12</li>
+        </ul>
+    </div>
+
+    <h1>Download</h1>
+    <table cellspacing='0'>
+        <!-- Table Header -->
+        <thead>
+        </thead><!-- Table Header -->
+        <!-- Table Body -->
+        <tbody>
+            <tr>
+                <th colspan="2"><img class="fullview" alt="Screenshot" class="screenshot" src=
+                "images/firstboot.jpg"></th>
+            </tr><!-- Table Row -->
+            <tr>
+                <td>ISO Image</td>
+                <td><button class="myButton" type="submit" onclick="window.open('https://github.com/SwagArch/swagarch-build/releases/download/18.02/swagarch-1802_x86_64.iso')">Download</button></td>
+            </tr><!-- Darker Table Row -->
+            <tr>
+                <td>ISO Signature</td>
+                <td><button class="myButton" type="submit" onclick="window.open('https://github.com/SwagArch/swagarch-build/releases/download/18.02/swagarch-1802_x86_64.iso.sig')">Download</button></td>
+            </tr>
+            <tr>
+                <td>Torrent file</td>
+
+                <td><button class="myButton" type="submit" onclick="window.open('https://github.com/SwagArch/swagarch-build/releases/download/18.02/swagarch-1802_x86_64.torrent')">Download</button></td>
+            </tr>
+            <tr>
+                <td>md5sum</td>
+                <td><button class="myButton" id="myBtn">Check MD5sum</button></td>
+                {% include md5.html %} 
+            </tr>
+
+            <tr>
+                <td>Build Date</td>
+
+                <td>2018-02-01</td>
+            </tr><!-- Darker Table Row -->
+        </tbody><!-- Table Body -->
+    </table>
+    <h1>Verify signature</h1>
+    <pre>
+gpg --keyserver keys.gnupg.net --recv-keys 4CD3DCB3EC5D6021<br>gpg --verify swagarch-1802_x86_64.iso.sig swagarch-1802_x86_64.iso
+</pre><br>
+</div>
+
 <h4>✓Stable version</h4>
+
 <table>
           <tbody><tr>
             <th>ID</th><th>Information</th>
