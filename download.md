@@ -23,7 +23,7 @@ Code 23118
 
 <table>
           <tr>
-            <th>ID</th><th>Information</th>
+            <td>ID</td><td>Information</td>
           </tr>
           <tr>
             <td>Kibojoe Linux</td><td>17.09final</td>
@@ -41,7 +41,7 @@ Code 23118
             <td>ISO Image</td><td><a href="https://sourceforge.net/projects/kibojoe/files/17.09/Code%2021217/" target="_blank">SourceForge</a></td>
           </tr>
           <tr>
-            <td>ISO Image Torrent</td>		<td><a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/17.09/" target="_blank">SourceForge</a></td>
+            <td>ISO Image Torrent</td><td><a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/17.09/" target="_blank">SourceForge</a></td>
           </tr>
           <tr>
             <td>md5sum</td><td>427b8697ca08c9eee423d10bfc7a5ec5</td>
