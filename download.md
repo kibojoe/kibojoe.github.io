@@ -23,10 +23,10 @@ Code 23118
 
 <table>
           <tr>
-            <td>**ID**</td><td>**Information**</td>
+            <td>ID</td><td>   Information</td>
           </tr>
           <tr>
-            <td>Kibojoe Linux</td><td>17.09final</td>
+            <td>Kibojoe Linux</td><td>   17.09final</td>
           </tr>
           <tr>
             <td>Codename</td><td>MUG</td>
@@ -64,10 +64,10 @@ Code 23118
 <h4>✓Testing version</h4>
 <table>
           <tr>
-            <td>**ID**</td><td>**Information**</td>
+            <td>ID</td><td>   Information</td>
           </tr>
           <tr>
-            <td>Kibojoe Linux</td><td>18.02rc2</td>
+            <td>Kibojoe Linux</td><td>   18.02rc2</td>
           </tr>
           <tr>
             <td>Codename</td><td>Vai-Vai</td>
