@@ -21,23 +21,15 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
-ID			Information
-&nbsp;
-Kibojoe Linux		17.09final
-&nbsp;
-Codename		MUG
-&nbsp;
-Code			21217
-
 <table>
           <tr>
-            <td>ID</td><td>Information</td>
+            <th>ID</th><th>Information</th>
           </tr>
           <tr>
-            <td>Kibojoe Linux</td><td>17.09final</td>
+            <th>Kibojoe Linux</th><th>17.09final</th>
           </tr>
           <tr>
-            <td>Codename</td><td>MUG</td>
+            <th>Codename</th><th>MUG</th>
           </tr>
           <tr>
             <td>Code</td><td>21217</td>
