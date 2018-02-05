@@ -21,6 +21,11 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
+Cabeçalho Um	 | Cabeçalho Dois
+---------------	 | --------------
+Célula Um    	 | Célula Dois
+Célula Três  	 | Célula Quatro
+
 <table>
           <tbody><tr>
             <td>ID</td><td>Information</td>
