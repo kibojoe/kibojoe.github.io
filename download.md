@@ -23,7 +23,7 @@ Code 23118
 
 <table>
           <tr>
-            <td>ID</td><td>Information</td>
+            <td>**ID**</td><td>**Information**</td>
           </tr>
           <tr>
             <td>Kibojoe Linux</td><td>17.09final</td>
@@ -64,7 +64,7 @@ Code 23118
 <h4>✓Testing version</h4>
 <table>
           <tr>
-            <th>ID</th><th>Information</th>
+            <td>**ID**</td><td>**Information**</td>
           </tr>
           <tr>
             <td>Kibojoe Linux</td><td>18.02rc2</td>
