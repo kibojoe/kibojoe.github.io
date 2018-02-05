@@ -39,7 +39,7 @@ Build Date		2017-12-02
 <h4>✓Testing version</h4>
 
 <table>
-          <tbody><tr>
+          <tr>
             <th>ID</th><th>Information</th>
           </tr>
           <tr>
@@ -69,7 +69,6 @@ Build Date		2017-12-02
           <tr>
             <td>Build Date</td><td>2018-01-23</td>
           </tr>
-        </tbody>
 </table>
 
 <a href='http://www.auplod.com/u/oupadla2f00.png' target='_blank'><img src='http://www.auplod.com/u/oupadla2f00.png' width='450' height='250'/></a>
