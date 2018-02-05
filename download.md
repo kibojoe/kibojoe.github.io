@@ -20,6 +20,22 @@ Code 23118
 - Packages updates and some corrections (Stable Update Manjaro 2018-01-19).
 
 <h4>✓Stable version</h4>
+
+<TABLE>
+   <TR>
+      <TD>Data 1</TD>
+      <TD>Data 2</TD>
+   </TR>
+   <TR>
+      <TD>Data 3</TD>
+      <TD>Data 4</TD>
+   </TR>
+   <TR>
+      <TD>Data 5</TD>
+      <TD>Data 6</TD>
+   </TR>
+</TABLE>
+
 <table>
           <tbody><tr>
             <th>ID</th><th>Information</th>
