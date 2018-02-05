@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Local
-permalink: /local/
+title: News
+permalink: /news/
 ---
 
 <h3>News Kibojoe Linux, Manjaro Linux and JWM</h3>

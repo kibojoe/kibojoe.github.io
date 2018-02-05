@@ -22,43 +22,7 @@ Code 23118
 <h4>✓Stable version</h4>
 
 <h1>Download</h1>
-    <table cellspacing='0'>
-        <!-- Table Header -->
-        <thead>
-        </thead><!-- Table Header -->
-        <!-- Table Body -->
-        <tbody>
-            <tr>
-                <th colspan="2"><img class="fullview" alt="Screenshot" class="screenshot" src=
-                "images/firstboot.jpg"></th>
-            </tr><!-- Table Row -->
-            <tr>
-                <td>ISO Image</td>
-                <td><button class="myButton" type="submit" onclick="window.open('https://github.com/SwagArch/swagarch-build/releases/download/18.02/swagarch-1802_x86_64.iso')">Download</button></td>
-            </tr><!-- Darker Table Row -->
-            <tr>
-                <td>ISO Signature</td>
-                <td><button class="myButton" type="submit" onclick="window.open('https://github.com/SwagArch/swagarch-build/releases/download/18.02/swagarch-1802_x86_64.iso.sig')">Download</button></td>
-            </tr>
-            <tr>
-                <td>Torrent file</td>
-
-                <td><button class="myButton" type="submit" onclick="window.open('https://github.com/SwagArch/swagarch-build/releases/download/18.02/swagarch-1802_x86_64.torrent')">Download</button></td>
-            </tr>
-            <tr>
-                <td>md5sum</td>
-                <td><button class="myButton" id="myBtn">Check MD5sum</button></td>
-                {% include md5.html %} 
-            </tr>
-
-            <tr>
-                <td>Build Date</td>
-
-                <td>2018-02-01</td>
-            </tr><!-- Darker Table Row -->
-        </tbody><!-- Table Body -->
-    </table>
-
+    
 <table>
           <tbody><tr>
             <th>ID</th><th>Information</th>
@@ -101,6 +65,7 @@ Code 23118
 <a href='http://www.auplod.com/u/udpoal99a7e.png' target='_blank'><img src='http://www.auplod.com/u/udpoal99a7e.png' width='450' height='250'/></a>
 
 <h4>✓Testing version</h4>
+
 <table>
           <tbody><tr>
             <th>ID</th><th>Information</th>
@@ -132,7 +97,8 @@ Code 23118
           <tr>
             <td>Build Date</td><td>2018-01-23</td>
           </tr>
-        </tbody></table>
+        </tbody>
+</table>
 
 <a href='http://www.auplod.com/u/oupadla2f00.png' target='_blank'><img src='http://www.auplod.com/u/oupadla2f00.png' width='450' height='250'/></a>
 
