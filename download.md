@@ -21,20 +21,43 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
-<TABLE>
-   <TR>
-      <TD>Data 1</TD>
-      <TD>Data 2</TD>
-   </TR>
-   <TR>
-      <TD>Data 3</TD>
-      <TD>Data 4</TD>
-   </TR>
-   <TR>
-      <TD>Data 5</TD>
-      <TD>Data 6</TD>
-   </TR>
-</TABLE>
+<h1>Download</h1>
+    <table cellspacing='0'>
+        <!-- Table Header -->
+        <thead>
+        </thead><!-- Table Header -->
+        <!-- Table Body -->
+        <tbody>
+            <tr>
+                <th colspan="2"><img class="fullview" alt="Screenshot" class="screenshot" src=
+                "images/firstboot.jpg"></th>
+            </tr><!-- Table Row -->
+            <tr>
+                <td>ISO Image</td>
+                <td><button class="myButton" type="submit" onclick="window.open('https://github.com/SwagArch/swagarch-build/releases/download/18.02/swagarch-1802_x86_64.iso')">Download</button></td>
+            </tr><!-- Darker Table Row -->
+            <tr>
+                <td>ISO Signature</td>
+                <td><button class="myButton" type="submit" onclick="window.open('https://github.com/SwagArch/swagarch-build/releases/download/18.02/swagarch-1802_x86_64.iso.sig')">Download</button></td>
+            </tr>
+            <tr>
+                <td>Torrent file</td>
+
+                <td><button class="myButton" type="submit" onclick="window.open('https://github.com/SwagArch/swagarch-build/releases/download/18.02/swagarch-1802_x86_64.torrent')">Download</button></td>
+            </tr>
+            <tr>
+                <td>md5sum</td>
+                <td><button class="myButton" id="myBtn">Check MD5sum</button></td>
+                {% include md5.html %} 
+            </tr>
+
+            <tr>
+                <td>Build Date</td>
+
+                <td>2018-02-01</td>
+            </tr><!-- Darker Table Row -->
+        </tbody><!-- Table Body -->
+    </table>
 
 <table>
           <tbody><tr>
