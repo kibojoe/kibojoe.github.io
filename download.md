@@ -21,11 +21,10 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
-    <pre>
-    First Name: Mike
-    Last Name: Krüger
-    Email: <a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#x3a;&#109;&#105;&#107;&#x65;&#x6b;&#x72;&#x75;&#101;&#103;&#101;&#x72;&#x38;&#49;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#111;&#x6d;">&#109;&#105;&#x6b;&#x65;&#107;&#x72;&#x75;&#101;&#103;&#101;&#x72;&#56;&#49;&#x40;&#103;&#x6d;&#x61;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;</a>
-    </pre>
+Kibojoe Linux		17.09final\s\s
+Codename		MUG\s\s
+Code			21217\s\s
+Architecture		x86_64\s\s
 
 <table>
           <tbody><tr>
