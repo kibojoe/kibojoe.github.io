@@ -21,24 +21,16 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
-<div class="progress" id="shortfall"></div>
-
-|                                               | USD                                                     |
-|:----------------------------------------------|:-------------------------------------------------------:|
-|Operating expenses estimate, p.a.              |<span id="d-yearly"></span>                              |
-|Reserve, 1.5a                                  |<span id="d-reserve"></span>                             |
-|Last update                                    |<span id="d-updated"></span>                             |
-
-Kibojoe Linux		17.09final
-Codename	        MUG
-Code			21217
-Architecture		x86_64
-ISO Image		<a href="https://sourceforge.net/projects/kibojoe/files/17.09/Code%2021217/" target="_blank">SourceForge</a>
-ISO Image Torrent 	<a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/17.09/" target="_blank">SourceForge</a>
-md5sum			427b8697ca08c9eee423d10bfc7a5ec5
-Size			969.9MB
-Help			<a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a>
-Build Date		2017-12-02
+	* Kibojoe Linux		17.09final
+	* Codename	        MUG
+	* Code			21217
+	* Architecture		x86_64
+	* ISO Image		<a href="https://sourceforge.net/projects/kibojoe/files/17.09/Code%2021217/" target="_blank">SourceForge</a>
+	* ISO Image Torrent 	<a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/17.09/" target="_blank">SourceForge</a>
+	* md5sum		427b8697ca08c9eee423d10bfc7a5ec5
+	* Size			969.9MB
+	* Help			<a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a>
+	* Build Date		2017-12-02
         
 <a href='http://www.auplod.com/u/ldauop99a7d.png' target='_blank'><img src='http://www.auplod.com/u/ldauop99a7d.png' width='450' height='250'/></a>
 
