@@ -20,37 +20,6 @@ Code 23118
 - Packages updates and some corrections (Stable Update Manjaro 2018-01-19).
 
 <h4>✓Stable version</h4>
-
- <table border="1|0">
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
-  <tr>
-    <td>February</td>
-    <td>$80</td>
-  </tr>
-</table> 
-
-<table border="1|0">
-<tr>
-<th>Cabeçalho</th>
-<th>Outro Cabeçalho</th>
-</tr>
-<tr>
-<td>linha 1, célula 1</td>
-<td>linha 1, célula 2</td>
-</tr>
-<tr>
-<td>linha 2, célula 1</td>
-<td>linha 2, célula 2</td>
-</tr>
-</table>
-
 <table>
           <tr>
             <th><strong>ID</strong></th><th><strong>Information</strong></th>
