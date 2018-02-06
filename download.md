@@ -25,7 +25,7 @@ Code 23118
             <th><strong>ID</strong></th><th><strong>Information</strong></th>
           </tr>
           <tr>
-            <th>Kibojoe Linux</th><th>17.09final</th>
+            <td>Kibojoe Linux</td><td>17.09final</td>
           </tr>
           <tr>
             <th>Codename</th><th>MUG</th>
