@@ -20,11 +20,6 @@ Code 23118
 - Packages updates and some corrections (Stable Update Manjaro 2018-01-19).
 
 <h4>✓Stable version</h4>
-
-|RAM (minimum)|RAM (recommended)|Hard Drive |
-|:-----------:|:---------------:|:---------:|
-| 256M        | 1G              | 10G       |
-
 <table>
           <tr>
             <td><strong>ID</strong></td> <td><strong>Information</strong></td>
@@ -39,25 +34,25 @@ Code 23118
             <td>Code</td> <td>21217</td>
           </tr>
           <tr>
-            <th>Architecture</th><th>x86_64</th>
+            <td>Architecture</td> <td>x86_64</td>
           </tr>
           <tr>
-            <th>ISO Image</th><th><a href="https://sourceforge.net/projects/kibojoe/files/17.09/Code%2021217/" target="_blank">SourceForge</a></th>
+            <td>ISO</td> <td><a href="https://sourceforge.net/projects/kibojoe/files/17.09/Code%2021217/" target="_blank">SourceForge</a></td>
           </tr>
           <tr>
-            <th>ISO Image Torrent</th><th><a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/17.09/" target="_blank">SourceForge</a></th>
+            <td>Torrent</td> <td><a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/17.09/" target="_blank">SourceForge</a></td>
           </tr>
           <tr>
-            <th>md5sum</th><th>427b8697ca08c9eee423d10bfc7a5ec5</th>
+            <td>md5sum</td> <td>427b8697ca08c9eee423d10bfc7a5ec5</td>
           </tr>
           <tr>
-            <th>Size</th><th>969.9MB</th>
+            <td>Size</td> <td>969.9MB</td>
           </tr>
           <tr>
-            <th>Help</th><th><a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a></th>
+            <td>Help</td> <td><a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a></td>
           </tr>
           <tr>
-            <th>Build Date</th><th>2017-12-02</th>
+            <td>Build Date</td> <td>2017-12-02</td>
           </tr>
 </table>
         
