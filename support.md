@@ -6,19 +6,19 @@ permalink: /support/
 
 <h3>Support and Documentations Kibojoe Linux</h3>
 
-<h4>✓Forum phpBB <a href="http://feeds.feedburner.com/kibojoeforum" rel="alternate" type="application/atom+xml"><img class="rss-icon" src="/images/feed-icon20x20.png" width="18" height="18" alt="Feed"></a></h4>
+✓<strong>Forum phpBB</strong> <a href="http://feeds.feedburner.com/kibojoeforum" rel="alternate" type="application/atom+xml"><img class="rss-icon" src="/images/feed-icon20x20.png" width="18" height="18" alt="Feed"></a>
 
 To access the forum click <a href="http://forum.kibojoe.org/home" target="_blank">here</a>.
 
-<h4>✓IRC Channel Freenode</h4>
+✓<strong>IRC Channel Freenode</strong>
  
 To access the #kibojoe channel click <a href="http://webchat.freenode.net/?channels=kibojoe" target="_blank">here</a>.
 
-<h4>✓Mailing Lists SourceForge</h4>
+✓<strong>Mailing Lists SourceForge</strong>
  
 To access the mailing lists click <a href="https://sourceforge.net/p/kibojoe/kibojoe-main/" target="_blank">here</a>.
 
-<h4>✓Wikis and Orientation Guide</h4>
+✓<strong>Wikis and Orientation Guide</strong>
  
 To access the wikis click <a href="https://wiki.archlinux.org/" target="_blank">Arch Linux Wiki</a> or <a href="https://wiki.manjaro.org/index.php?title=Main_Page" target="_blank">Manjaro Linux Wiki</a>.
 

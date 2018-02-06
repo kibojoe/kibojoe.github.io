@@ -6,7 +6,7 @@ permalink: /download/
 
 <h3>Kibojoe Linux download</h3>
 
-<h4>✓Change current log 18.02rc2</h4>
+✓<strong>Change current log 18.02rc2</strong>
 
 Code 23118
 
@@ -19,7 +19,7 @@ Code 23118
 - gtk3-classic replace gtk3,
 - Packages updates and some corrections (Stable Update Manjaro 2018-01-19).
 
-<h4>✓Stable version</h4>
+✓<strong>Stable version</strong>
 <table width="30%" border="1">
           <tr>
             <td><strong>ID</strong></td> <td><strong>Information</strong></td>
@@ -60,7 +60,7 @@ Code 23118
 
 <a href='http://www.auplod.com/u/udpoal99a7e.png' target='_blank'><img src='http://www.auplod.com/u/udpoal99a7e.png' width='450' height='250'/></a>
 
-<h4>✓Testing version</h4>
+✓<strong>Testing version</strong>
 <table>
           <tr>
             <td><strong>ID</strong></td> <td><strong>Information</strong></td>
