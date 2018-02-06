@@ -21,6 +21,11 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
+<table border="1">
+   <tr><td>Linha 1, Coluna 1</td> <td> Linha 1, Coluna 2 </td> </tr>
+   <tr><td>Linha 2, Coluna 1</td> <td> Linha 2, Coluna 2 </td> </tr>
+</table>
+
 <table>
           <tr>
             <th><strong>ID</strong></th><th><strong>Information</strong></th>
