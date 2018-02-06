@@ -29,10 +29,6 @@ Code 23118
         <!-- Table Body -->
         <tbody>
             <tr>
-                <th colspan="2"><img class="fullview" alt="Screenshot" class="screenshot" src=
-                "images/jekyll-logo.jpg"></th>
-            </tr><!-- Table Row -->
-            <tr>
                 <td>ISO Image</td>
                 <td><button class="myButton" type="submit" onclick="window.open('https://github.com/SwagArch/swagarch-build/releases/download/18.02/swagarch-1802_x86_64.iso')">Download</button></td>
             </tr><!-- Darker Table Row -->

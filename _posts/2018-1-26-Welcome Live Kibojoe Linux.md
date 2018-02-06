@@ -3,7 +3,7 @@ layout: post
 title: Welcome Live Kibojoe Linux 
 ---
 
-<p style="text-align: justify;">I wrote a little welcome script for Kibojoe Linux Live. This script will only appear in the Live boot, see the image::</p>
+<p style="text-align: justify;">I wrote a little welcome script for Kibojoe Linux Live. This script will only appear in the Live boot, see the image:</p>
 
 <a href='http://www.auplod.com/u/pdaolua399a.png' target='_blank'><img src='http://www.auplod.com/u/pdaolua399a.png' width='605' height='340'/></a>
 
