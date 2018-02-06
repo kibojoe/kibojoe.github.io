@@ -28,10 +28,10 @@ Code 23118
             <td>Kibojoe Linux</td> <td>17.09final</td>
           </tr>
           <tr>
-            <th>Codename</th><th>MUG</th>
+            <td>Codename</td> <td>MUG</td>
           </tr>
           <tr>
-            <th>Code</th><th>21217</th>
+            <td>Code</td> <td>21217</td>
           </tr>
           <tr>
             <th>Architecture</th><th>x86_64</th>
