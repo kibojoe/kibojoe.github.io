@@ -20,6 +20,11 @@ Code 23118
 - Packages updates and some corrections (Stable Update Manjaro 2018-01-19).
 
 <h4>✓Stable version</h4>
+
+|RAM (minimum)|RAM (recommended)|Hard Drive |
+|:-----------:|:---------------:|:---------:|
+| 256M        | 1G              | 10G       |
+
 <table>
           <tr>
             <td><strong>ID</strong></td> <td><strong>Information</strong></td>
