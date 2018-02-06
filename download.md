@@ -21,7 +21,22 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
-<table border="1">
+ <table border="1|0">
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+</table> 
+
+<table border="1|0">
 <tr>
 <th>Cabeçalho</th>
 <th>Outro Cabeçalho</th>
