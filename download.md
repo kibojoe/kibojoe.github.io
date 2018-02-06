@@ -100,7 +100,7 @@ Code 23118
             <th>md5sum</th><th>a8c2de55548eab002a3d8c80973062e4</th>
           </tr>
           <tr>
-            <th>Size</th><td>946.2MB</th>
+            <th>Size</th><th>946.2MB</th>
           </tr>
           <tr>
             <th>Help</th><th><a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a></th>
