@@ -6,7 +6,7 @@ permalink: /news/
 
 <h3>News Kibojoe Linux, Manjaro Linux and JWM</h3>
 
-<p style="text-align: justify;">- [2018-01-29] Stable Update I Manjaro Linux - Kernels, Mesa, Xorg-Server, Browsers, MSM, MHWD, <a href="https://forum.manjaro.org/t/stable-update-2018-01-29-kernels-mesa-xorg-server-browsers-msm-mhwd-gcc/39291" target="_blank">here</a>.
+- [2018-01-29] Stable Update I Manjaro Linux - Kernels, Mesa, Xorg-Server, Browsers, MSM, MHWD, <a href="https://forum.manjaro.org/t/stable-update-2018-01-29-kernels-mesa-xorg-server-browsers-msm-mhwd-gcc/39291" target="_blank">here</a>.
 - [2018-01-26] Stable Update I Manjaro Linux - Extramodules, Nvidia, Wine, Haskell, Python, <a href="https://forum.manjaro.org/t/stable-update-2018-01-26-extramodules-nvidia-wine-haskell-python/39059" target="_blank">here</a>.
 - [2018-01-23] Kibojoe Linux 18.02rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=128&p=339#p339" target="_blank">here</a>.
 - [2018-01-19] Stable Update I Manjaro Linux - Kernels, KDE Apps & Framework, Browsers, <a href="https://manjaro.org/2018/01/19/stable-update-2018-01-19-kernels-kde-apps-framework-browsers-virtualbox-systemd-mesa/" target="_blank">here</a>.
@@ -68,4 +68,4 @@ permalink: /news/
 - [2017-04-15] Stable Update I Manjaro Linux  - Kernels, Thunderbird, Firefox, Libreoffice, <a href="https://manjaro.org/2017/04/15/stable-update-2017-04-15-kernels-thunderbird-firefox-libreoffice/" target="_blank">here</a>.
 - [2017-04-11] Kibojoe Linux 17.04rc1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=10&p=16#p16" target="_blank">here</a>.
 - [2017-03-31] Launch of <a href="http://forum.kibojoe.org/" target="_blank">forum</a> in phpBB platform.
-- [2017-03-20] Launch of IRC channel <a href="http://webchat.freenode.net/?channels=kibojoe" target="_blank">#kibojoe</a> in Freenode platform.</p>
+- [2017-03-20] Launch of IRC channel <a href="http://webchat.freenode.net/?channels=kibojoe" target="_blank">#kibojoe</a> in Freenode platform.
