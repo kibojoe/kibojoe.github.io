@@ -6,12 +6,33 @@ permalink: /news/
 
 <h3>News Kibojoe Linux, Manjaro Linux and JWM</h3>
 
+✓<strong>Information Kibojoe Linux</strong>
+
+- [2018-01-23] Kibojoe Linux 18.02rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=128&p=339#p339" target="_blank">here</a>.
+- [2018-01-12] Kibojoe Linux 18.02rc1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=115&p=290#p290" target="_blank">here</a>.
+- [2017-12-02] Kibojoe Linux 17.09final is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&p=267#p267" target="_blank">here</a>.
+- [2017-11-16] Kibojoe Linux 17.09rc6 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=99&p=260#p260" target="_blank">here</a>.
+- [2017-10-02] Kibojoe Linux 17.09rc5 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=93&p=250#p250" target="_blank">here</a>.
+- [2017-10-19] Kibojoe Linux 17.09rc4 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=82&p=212#p212" target="_blank">here</a>.
+- [2017-10-02] Kibojoe Linux 17.09rc3 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=68&p=153#p153" target="_blank">here</a>.
+- [2017-09-15] Kibojoe Linux 17.09rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=61" target="_blank">here</a>.
+- [2017-08-19] Kibojoe Linux 17.09rc1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&p=96#p96" target="_blank">here</a>.
+- [2017-07-02] Kibojoe Linux 17.04final is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&p=58#p58" target="_blank">here</a>.
+- [2017-05-24] Kibojoe Linux 17.04pre1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=28&p=50#p50" target="_blank">here</a>.
+- [2017-05-18] Kibojoe Linux 17.04rc5 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=26&p=47#p47" target="_blank">here</a>.
+- [2017-05-08] Kibojoe Linux 17.04rc4 is ready, <a href="https://forum.manjaro.org/t/kibojoe-linux-manjaro-linux-re-spin-with-jwm-17-04rc4/21609/70" target="_blank">here</a>.
+- [2017-05-04] Kibojoe Linux 17.04rc3 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&p=35#p35" target="_blank">here</a>.
+- [2017-04-24] Kibojoe Linux 17.04rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=15" target="_blank">here</a>.
+- [2017-04-11] Kibojoe Linux 17.04rc1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=10&p=16#p16" target="_blank">here</a>.
+- [2017-03-31] Launch of <a href="http://forum.kibojoe.org/" target="_blank">forum</a> in phpBB platform.
+- [2017-03-20] Launch of IRC channel <a href="http://webchat.freenode.net/?channels=kibojoe" target="_blank">#kibojoe</a> in Freenode platform.
+
+✓<strong>Announcement Manjaro Linux</strong>
+
 - [2018-01-29] Stable Update I Manjaro Linux - Kernels, Mesa, Xorg-Server, Browsers, MSM, MHWD, <a href="https://forum.manjaro.org/t/stable-update-2018-01-29-kernels-mesa-xorg-server-browsers-msm-mhwd-gcc/39291" target="_blank">here</a>.
 - [2018-01-26] Stable Update I Manjaro Linux - Extramodules, Nvidia, Wine, Haskell, Python, <a href="https://forum.manjaro.org/t/stable-update-2018-01-26-extramodules-nvidia-wine-haskell-python/39059" target="_blank">here</a>.
-- [2018-01-23] Kibojoe Linux 18.02rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=128&p=339#p339" target="_blank">here</a>.
 - [2018-01-19] Stable Update I Manjaro Linux - Kernels, KDE Apps & Framework, Browsers, <a href="https://manjaro.org/2018/01/19/stable-update-2018-01-19-kernels-kde-apps-framework-browsers-virtualbox-systemd-mesa/" target="_blank">here</a>.
 - [2018-01-12] Stable Update I Manjaro Linux - Kernels, Microcodes, Nvidia, Firefox, Boost, Cleanup, <a href="https://manjaro.org/2018/01/12/stable-update-2018-01-12-kernels-microcodes-nvidia-firefox-boost-cleanup/" target="_blank">here</a>.
-- [2018-01-12] Kibojoe Linux 18.02rc1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=115&p=290#p290" target="_blank">here</a>.
 - [2018-01-07] Stable Update I Manjaro Linux - Browsers, Nvidia, PHP, Compiz, Adapta, <a href="https://manjaro.org/2018/01/07/stable-update-2018-01-07-browsers-nvidia-php-compiz-adapta/" target="_blank">here</a>.
 - [2018-01-05] Stable Update I Manjaro Linux - Kernels, KPTI, Plasma, Calamares, TLP, <a href="https://manjaro.org/2018/01/05/stable-update-2018-01-05-kernels-kpti-plasma-calamares-tlp/" target="_blank">here</a>.
 - [2017-12-31] Stable Update I Manjaro Linux - Kernels, Xorg-Server, Mesa, Compiz, Wine, Firefox, <a href="https://manjaro.org/2017/12/31/stable-update-2017-12-31-kernels-xorg-server-mesa-compiz-wine-firefox/" target="_blank">here</a>.
@@ -20,52 +41,39 @@ permalink: /news/
 - [2017-12-23] Stable Update I Manjaro Linux - Kernels, KDE-Apps, Cinnamon, Deepin, Xorg, <a href="https://manjaro.org/2017/12/23/stable-update-2017-12-23-kernels-kde-apps-cinnamon-deepin-xorg-libreoffice/" target="_blank">here</a>.
 - [2017-12-16] Stable Update I Manjaro Linux - Kernels, Mesa, Deepin, Firefox, Python, Haskell, <a href="https://manjaro.org/2017/12/16/stable-update-2017-12-16-kernels-mesa-deepin-firefox-python-haskell/" target="_blank">here</a>.
 - [2017-12-03] Stable Update I Manjaro Linux - Kernels, Mesa, Firefox, Thunderbird, Plasma5, <a href="https://manjaro.org/2017/12/03/stable-update-2017-12-03-kernels-mesa-firefox-thunderbird-plasma5/" target="_blank">here</a>.
-- [2017-12-02] Kibojoe Linux 17.09final is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&p=267#p267" target="_blank">here</a>.
 - [2017-11-25] Stable Update I Manjaro Linux - Kernels, Jade, VirtualBox, Deepin, Kernel v4.15, <a href="https://manjaro.org/2017/11/25/stable-update-2017-11-25-kernels-jade-virtualbox-deepin-kernel-v4-15/" target="_blank">here</a>.
 - [2017-11-19] Stable Update I Manjaro Linux - Kernels, Deepin, Python, Haskell, Firefox Quantum, <a href="https://manjaro.org/2017/11/19/stable-update-2017-11-19-kernels-deepin-python-haskell-firefox-quantum/" target="_blank">here</a>.
-- [2017-11-16] Kibojoe Linux 17.09rc6 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=99&p=260#p260" target="_blank">here</a>.
 - [2017-11-12] Stable Update I Manjaro Linux - Kernels, Plasma5, END OF LIFE for 32bit support , <a href="https://manjaro.org/2017/11/13/stable-update-2017-11-12-kernels-plasma5-deepin-cinnamon-end-of-life-for-32bit-support/" target="_blank">here</a>.
 - [2017-11-04] Stable Update I Manjaro Linux - Kernels, Gnome, Deepin, Mate, Mesa, Libreoffice, <a href="https://manjaro.org/2017/11/04/stable-update-2017-11-04-kernels-gnome-deepin-mate-mesa-libreoffice/" target="_blank">here</a>.
-- [2017-10-02] Kibojoe Linux 17.09rc5 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=93&p=250#p250" target="_blank">here</a>.
 - [2017-10-29] Stable Update I Manjaro Linux - KDE, Gnome, Deepin, Firefox, Mesa, <a href="https://manjaro.org/2017/10/29/stable-update-2017-10-29-kde-gnome-deepin-firefox-mesa/" target="_blank">here</a>.
 - [2017-10-26] Stable Update I Manjaro Linux - Gnome, KDE, Deepin, LibreOffice, Firefox, Virtualbox, <a href="https://manjaro.org/2017/10/26/stable-update-2017-10-26-gnome-kde-deepin-libreoffice-firefox-wine-virtualbox/" target="_blank">here</a>.
-- [2017-10-19] Kibojoe Linux 17.09rc4 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=82&p=212#p212" target="_blank">here</a>.
 - [2017-10-09] Stable Update I Manjaro Linux - Kernels, Mesa, Xorg-Server, PHP, Python, Haskell, <a href="https://manjaro.org/2017/10/09/stable-update-2017-10-09-kernels-mesa-xorg-server-php-python-haskell/" target="_blank">here</a>.
-- [2017-10-02] Kibojoe Linux 17.09rc3 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=68&p=153#p153" target="_blank">here</a>.
 - [2017-09-30] Stable Update I Manjaro Linux - Timeshift, Nvidia, JADE, JDK9, Snap Support, <a href="https://manjaro.org/2017/09/30/stable-update-2017-09-30-timeshift-kernels-nvidia-jade-haskell-jdk9-snap-support/" target="_blank">here</a>.
 - [2017-09-23] Stable Update I Manjaro Linux - Kernels, Mesa, PulseAudio, GST, Python, Haskell, <a href="https://manjaro.org/2017/09/23/stable-update-2017-09-23-kernels-mesa-pulseaudio-gst-python-haskell/" target="_blank">here</a>.
 - [2017-09-16] Stable Update I Manjaro Linux - Kernels, Mesa, VirtualBox,  KDE, Removal of OpenRC, <a href="https://manjaro.org/2017/09/16/stable-update-2017-09-16-kernels-mesa-virtualbox-pamac-kde-gcc-removal-of-openrc/" target="_blank">here</a>.
-- [2017-09-15] Kibojoe Linux 17.09rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=61" target="_blank">here</a>.
 - [2017-09-08] Stable Update I Manjaro Linux - Mesa, Kernels, Pulseaudio, LibreOffice, Cinnamon, <a href="https://manjaro.org/2017/09/08/stable-update-2017-09-08-mesa-kernels-pulseaudio-libreoffice-kde-apps-cinnamon/" target="_blank">here</a>.
 - [2017-09-02] Stable Update I Manjaro Linux - Kernels, Calamares,Mesa, Firefox, Python, <a href="https://manjaro.org/2017/09/02/stable-update-2017-09-02-kernels-calamares-mesa-firefox-python/" target="_blank">here</a>.
 - [2017-09-02] Maintenance I Manjaro Linux - Phasing out i686 support, <a href="https://manjaro.org/2017/09/02/maintenance-phasing-out-i686-support/" target="_blank">here</a>.
 - [2017-08-25] Stable Update I Manjaro Linux - Thunderbird, Pamac, Calamares, Plasma 5, <a href="https://manjaro.org/2017/08/25/stable-update-2017-08-25-thunderbird-pamac-calamares-plasma-5/" target="_blank">here</a>.
 - [2017-08-24] Stable Update I Manjaro Linux - Kernels-Firefox, Budgie, Deepin, Wine, <a href="https://manjaro.org/2017/08/24/stable-update-2017-08-24-kernels-firefox-kde-framework-apps-budgie-deepin-wine/" target="_blank">here</a>.
-- [2017-08-19] Kibojoe Linux 17.09rc1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&p=96#p96" target="_blank">here</a>.
 - [2017-08-18] Stable Update I Manjaro Linux - Kernels, Deepin, Firefox, Xorg-Server, Mesa, <a href="https://manjaro.org/2017/08/18/stable-update-2017-08-18-kernels-deepin-firefox-xorg-server-mesa-pamac/" target="_blank">here</a>.
 - [2017-08-10] Stable Update I Manjaro Linux - Kernels, LibreOffice, Systemd, VirtualBox, <a href="https://manjaro.org/2017/08/10/stable-update-2017-08-10-kernels-libreoffice-systemd-virtualbox/" target="_blank">here</a>.
 - [2017-07-27] Stable Update I Manjaro Linux - Kernels, VirtualBox, Deepin, Mesa, <a href="https://manjaro.org/2017/07/27/stable-update-2017-07-27-kernels-virtualbox-deepin-mesa/" target="_blank">here</a>.
-- [2017-07-21] Released JWM 2.3.7 <a href="http://forum.kibojoe.org/viewtopic.php?f=13&p=75&sid=32ff4c16d74b3461f85e2b669acac0ac#p75" target="_blank">here</a>.
 - [2017-07-20] Stable Update I Manjaro Linux - Kernels, Architect, Deepin, KDE Apps, <a href="https://manjaro.org/2017/07/20/stable-update-2017-07-20-kernels-architect-deepin-kde-apps-toolchain/" target="_blank">here</a>.
 - [2017-07-16] Stable Update I Manjaro Linux - Kernels, Deepin, Palemoon, KDE-Framework, <a href="https://manjaro.org/2017/07/16/stable-update-2017-07-16-kernels-deepin-palemoon-kde-framework-xfce4-gtk3/" target="_blank">here</a>.
 - [2017-07-04] Stable Update I Manjaro Linux - Kernels, Firefox, Mesa, XFCE-GTK3, <a href="https://manjaro.org/2017/07/04/stable-update-2017-07-04-kernels-firefox-mesa-xfce4-gtk3/" target="_blank">here</a>.
-- [2017-07-02] Kibojoe Linux 17.04final is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&p=58#p58" target="_blank">here</a>.
 - [2017-06-26] Stable Update I Manjaro Linux - Cinnamon, Kernels, LibreOffice, Haskell, <a href="https://manjaro.org/2017/06/26/stable-update-2017-06-26-cinnamon-kernels-libreoffice-haskell/" target="_blank">here</a>.
 - [2017-06-22] Stable Update I Manjaro Linux - Calamares, Thus, Cnnamon, Gstreamer, Mesa, <a href="https://manjaro.org/2017/06/22/stable-update-2017-06-22-calamares-thus-cinnamon-gstreamer-mesa/" target="_blank">here</a>.
 - [2017-06-18] Stable Update I Manjaro Linux - kernels, Plasma, KDE, Apps, Firefox, Thunderbird, <a href="https://manjaro.org/2017/06/18/stable-update-2017-06-18-kernels-plasma-kde-apps-firefox-thunderbird-mesa/" target="_blank">here</a>.
 - [2017-06-10] Stable Update I Manjaro Linux - Plasma V5.10.1, Kernels, Mesa V17.1.2, Calamares, <a href="https://manjaro.org/2017/06/10/stable-update-2017-06-10-plasma-v5-10-1-kernels-mesa-v17-1-2-calamares/" target="_blank">here</a>.
 - [2017-06-06] Stable Update I Manjaro Linux - Plasma 5, Boost, Deepin, Mesa, GCC, <a href="https://manjaro.org/2017/06/06/stable-update-2017-06-06-plasma-5-boost-deepin-mesa-gcc/" target="_blank">here</a>.
 - [2017-05-27] Stable Update I Manjaro Linux - Kernels, Cinnamon, Firefox, Mesa, OpenSSL, Kodi, <a href="https://manjaro.org/2017/05/27/stable-update-2017-05-27-kernels-cinnamon-firefox-mesa-openssl-kodi/" target="_blank">here</a>.
-- [2017-05-24] Kibojoe Linux 17.04pre1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=28&p=50#p50" target="_blank">here</a>.
 - [2017-05-19] Stable Update I Manjaro Linux - Kernels, LibreOffice, Mesa, ThunderBird, CInnamon, <a href="https://manjaro.org/2017/05/19/stable-update-2017-05-19-kernels-libreoffice-mesa-thunderbird-cinnamon/" target="_blank">here</a>.
-- [2017-05-18] Kibojoe Linux 17.04rc5 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=26&p=47#p47" target="_blank">here</a>.
 - [2017-05-12] Stable Update I Manjaro Linux - Kernels, KDE, Apps, Gnome, Browsers, <a href="https://manjaro.org/2017/05/12/stable-update-2017-05-12-kernels-kde-kde-apps-gnome-browsers/" target="_blank">here</a>.
-- [2017-05-08] Kibojoe Linux 17.04rc4 is ready, <a href="https://forum.manjaro.org/t/kibojoe-linux-manjaro-linux-re-spin-with-jwm-17-04rc4/21609/70" target="_blank">here</a>.
-- [2017-05-04] Kibojoe Linux 17.04rc3 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&p=35#p35" target="_blank">here</a>.
 - [2017-04-25] Stable Update I Manjaro Linux - Firefox, KDE, Apps, Haskell, VirtualBox, <a href="https://manjaro.org/2017/04/25/stable-update-2017-04-25-firefox-kde-apps-haskell-virtualbox/" target="_blank">here</a>.
-- [2017-04-24] Kibojoe Linux 17.04rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=15" target="_blank">here</a>.
 - [2017-04-23] Stable Update I Manjaro Linux  - Kernels, KDE, Framework, Mesa, Budgie, <a href="https://manjaro.org/2017/04/23/stable-update-2017-04-23-kernels-kde-framework-mesa-budgie/" target="_blank">here</a>.
 - [2017-04-15] Stable Update I Manjaro Linux  - Kernels, Thunderbird, Firefox, Libreoffice, <a href="https://manjaro.org/2017/04/15/stable-update-2017-04-15-kernels-thunderbird-firefox-libreoffice/" target="_blank">here</a>.
-- [2017-04-11] Kibojoe Linux 17.04rc1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=10&p=16#p16" target="_blank">here</a>.
-- [2017-03-31] Launch of <a href="http://forum.kibojoe.org/" target="_blank">forum</a> in phpBB platform.
-- [2017-03-20] Launch of IRC channel <a href="http://webchat.freenode.net/?channels=kibojoe" target="_blank">#kibojoe</a> in Freenode platform.
+
+✓<strong>Information Manjaro Linux</strong>
+
+- [2017-07-21] Released JWM 2.3.7 <a href="http://forum.kibojoe.org/viewtopic.php?f=13&p=75&sid=32ff4c16d74b3461f85e2b669acac0ac#p75" target="_blank">here</a>.
