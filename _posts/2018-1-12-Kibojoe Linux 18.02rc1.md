@@ -16,6 +16,6 @@ title: Kibojoe Linux 18.02rc1 released
 
 <p style="text-align: justify;">Let's test Kibojoe Linux 18.02rc1, codename Vai-Vai?</p>
 
-kind regards,
-Kibojoe Linux Maintenance Team
+<pre>kind regards,
+Kibojoe Linux Maintenance Team</pre>
 

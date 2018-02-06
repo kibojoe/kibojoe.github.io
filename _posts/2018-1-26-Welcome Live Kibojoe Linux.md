@@ -14,6 +14,6 @@ title: Welcome Live Kibojoe Linux
 * [Download](http://kibojoe.org/download.html)
 * [Forum](http://forum.kibojoe.org)
 
-kind regards,
-Kibojoe Linux Maintenance Team
+<pre>kind regards,
+Kibojoe Linux Maintenance Team</pre>
 
