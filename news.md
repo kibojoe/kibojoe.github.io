@@ -74,6 +74,6 @@ permalink: /news/
 - [2017-04-23] Stable Update I Manjaro Linux  - Kernels, KDE, Framework, Mesa, Budgie, <a href="https://manjaro.org/2017/04/23/stable-update-2017-04-23-kernels-kde-framework-mesa-budgie/" target="_blank">here</a>.
 - [2017-04-15] Stable Update I Manjaro Linux  - Kernels, Thunderbird, Firefox, Libreoffice, <a href="https://manjaro.org/2017/04/15/stable-update-2017-04-15-kernels-thunderbird-firefox-libreoffice/" target="_blank">here</a>.
 
-✓<strong>Information Manjaro Linux</strong>
+✓<strong>Information JWM</strong>
 
 - [2017-07-21] Released JWM 2.3.7 <a href="http://forum.kibojoe.org/viewtopic.php?f=13&p=75&sid=32ff4c16d74b3461f85e2b669acac0ac#p75" target="_blank">here</a>.
