@@ -21,6 +21,21 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
+<table border="1">
+<tr>
+<th>Cabeçalho</th>
+<th>Outro Cabeçalho</th>
+</tr>
+<tr>
+<td>linha 1, célula 1</td>
+<td>linha 1, célula 2</td>
+</tr>
+<tr>
+<td>linha 2, célula 1</td>
+<td>linha 2, célula 2</td>
+</tr>
+</table>
+
 <table>
           <tr>
             <th><strong>ID</strong></th><th><strong>Information</strong></th>
@@ -64,34 +79,34 @@ Code 23118
 <h4>✓Testing version</h4>
 <table>
           <tr>
-            <td>ID</td><td>Information</td>
+            <th><strong>ID</strong></th><th><strong>Information</strong></th>
           </tr>
           <tr>
-            <td>Kibojoe Linux</td><td>18.02rc2</td>
+            <th>Kibojoe Linux</th><th>18.02rc2</th>
           </tr>
           <tr>
-            <td>Codename</td><td>Vai-Vai</td>
+            <th>Codename</th><th>Vai-Vai</th>
           </tr>
           <tr>
-            <td>Code</td><td>23118</td>
+            <th>Code</th><th>23118</th>
           </tr>
           <tr>
-            <td>Architecture</td><td>x86_64</td>
+            <th>Architecture</th><th>x86_64</th>
           </tr>
           <tr>
-            <td>ISO Image</td><td><a href="https://sourceforge.net/projects/kibojoe/files/18.02/Code%2023118/" target="_blank">SourceForge</a></td>
+            <th>ISO Image</th><th><a href="https://sourceforge.net/projects/kibojoe/files/18.02/Code%2023118/" target="_blank">SourceForge</a></th>
           </tr>
           <tr>
-            <td>md5sum</td><td>a8c2de55548eab002a3d8c80973062e4</td>
+            <th>md5sum</th><th>a8c2de55548eab002a3d8c80973062e4</th>
           </tr>
           <tr>
-            <td>Size</td><td>946.2MB</td>
+            <th>Size</th><td>946.2MB</th>
           </tr>
           <tr>
-            <td>Help</td><td><a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a></td>
+            <th>Help</th><th><a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a></th>
           </tr>
           <tr>
-            <td>Build Date</td><td>2018-01-23</td>
+            <th>Build Date</th><th>2018-01-23</th>
           </tr>
 </table>
 
