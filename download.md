@@ -21,11 +21,6 @@ Code 23118
 
 <h4>✓Stable version</h4>
 
-<table border="1">
-   <tr><td>Linha 1, Coluna 1</td> <td> Linha 1, Coluna 2 </td> </tr>
-   <tr><td>Linha 2, Coluna 1</td> <td> Linha 2, Coluna 2 </td> </tr>
-</table>
-
 <table>
           <tr>
             <th><strong>ID</strong></th><th><strong>Information</strong></th>
@@ -37,28 +32,28 @@ Code 23118
             <th>Codename</th><th>MUG</th>
           </tr>
           <tr>
-            <td>Code</td><td>21217</td>
+            <th>Code</th><th>21217</th>
           </tr>
           <tr>
-            <td>Architecture</td><td>x86_64</td>
+            <th>Architecture</th><th>x86_64</th>
           </tr>
           <tr>
-            <td>ISO Image</td><td><a href="https://sourceforge.net/projects/kibojoe/files/17.09/Code%2021217/" target="_blank">SourceForge</a></td>
+            <th>ISO Image</th><th><a href="https://sourceforge.net/projects/kibojoe/files/17.09/Code%2021217/" target="_blank">SourceForge</a></th>
           </tr>
           <tr>
-            <td>ISO Image Torrent</td><td><a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/17.09/" target="_blank">SourceForge</a></td>
+            <th>ISO Image Torrent</th><th><a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/17.09/" target="_blank">SourceForge</a></th>
           </tr>
           <tr>
-            <td>md5sum</td><td>427b8697ca08c9eee423d10bfc7a5ec5</td>
+            <th>md5sum</th><th>427b8697ca08c9eee423d10bfc7a5ec5</th>
           </tr>
           <tr>
-            <td>Size</td><td>969.9MB</td>
+            <th>Size</th><th>969.9MB</th>
           </tr>
           <tr>
-            <td>Help</td><td><a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a></td>
+            <th>Help</th><th><a href="https://wiki.manjaro.org/index.php?title=How-to_check_an_.ISO_MD5_checksum" target="_blank">Check ISO</a> I <a href="https://wiki.manjaro.org/index.php?title=Burn_an_ISO_File" target="_blank">Burn ISO</a></th>
           </tr>
           <tr>
-            <td>Build Date</td><td>2017-12-02</td>
+            <th>Build Date</th><th>2017-12-02</th>
           </tr>
 </table>
         
