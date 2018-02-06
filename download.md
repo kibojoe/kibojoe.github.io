@@ -21,7 +21,7 @@ Code 23118
 
 <h4>✓Stable version</h4>
 <table>
-          <tr>
+          <tr height=30>
             <td><strong>ID</strong></td> <td><strong>Information</strong></td>
           </tr>
           <tr>
