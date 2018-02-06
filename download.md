@@ -43,7 +43,7 @@ Code 23118
             <td>Torrent</td> <td><a href="https://sourceforge.net/projects/manjarotorrents/files/spins/Kibojoe/17.09/" target="_blank">SourceForge</a></td>
           </tr>
           <tr>
-            <td>md5sum</td> <td>`427b8697ca08c9eee423d10bfc7a5ec5`</td>
+            <td>md5sum</td> <td>427b8697ca08c9eee423d10bfc7a5ec5</td>
           </tr>
           <tr>
             <td>Size</td> <td>969.9MB</td>
@@ -81,7 +81,7 @@ Code 23118
             <td>ISO Image</td> <td><a href="https://sourceforge.net/projects/kibojoe/files/18.02/Code%2023118/" target="_blank">SourceForge</a></td>
           </tr>
           <tr>
-            <td>md5sum</td> <td>`a8c2de55548eab002a3d8c80973062e4`</td>
+            <td>md5sum</td> <td>a8c2de55548eab002a3d8c80973062e4</td>
           </tr>
           <tr>
             <td>Size</td> <td>946.2MB</td>
