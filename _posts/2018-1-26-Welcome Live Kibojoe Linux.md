@@ -5,7 +5,7 @@ title: Welcome Live Kibojoe Linux
 
 <p style="text-align: justify;">Escrevi um pequeno script de boas-vindas para o Live do Kibojoe Linux. Esse script somente vai aparecer no boot do Live, veja a imagem:</p>
 
-<img src="http://www.auplod.com/u/pdaolua399a.png">
+<a href='http://www.auplod.com/u/pdaolua399a.png' target='_blank'><img src='http://www.auplod.com/u/pdaolua399a.png' width='800' height='450'/></a>
 
 <p style="text-align: justify;">Nele tem umas informações básicas, como: i) o user e a senha do Live, ii) o local do NMTUI para acessar a rede por CLI, iii) o local do instalador Calamares, iv) ressalta que AUR, multimedia e printer não são instalados por padrão e v) a importância de ler o "User Orientation Guide".</p>
 
