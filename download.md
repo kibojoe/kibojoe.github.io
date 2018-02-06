@@ -20,8 +20,8 @@ Code 23118
 - Packages updates and some corrections (Stable Update Manjaro 2018-01-19).
 
 <h4>✓Stable version</h4>
-<table>
-          <tr height=30>
+<table width="30%" border="1">
+          <tr>
             <td><strong>ID</strong></td> <td><strong>Information</strong></td>
           </tr>
           <tr>
