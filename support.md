@@ -20,6 +20,6 @@ To access the mailing lists click <a href="https://sourceforge.net/p/kibojoe/kib
 
 ✓<strong>Wikis and Orientation Guide</strong>
  
-To access the wikis click <a href="https://wiki.archlinux.org/" target="_blank">Arch Linux Wiki</a> or <a href="https://wiki.manjaro.org/index.php?title=Main_Page" target="_blank">Manjaro Linux Wiki</a>.
+To access the wikis click <a href="https://wiki.archlinux.org/" target="_blank">ArchLinux Wiki</a> or <a href="https://wiki.manjaro.org/index.php?title=Main_Page" target="_blank">Manjaro Linux Wiki</a>.
 
 To access the Orientarion Guide Kibojoe Linux click <a href="https://github.com/kibojoe/documentation-kibojoe" target="_blank">here</a>.
