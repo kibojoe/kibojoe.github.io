@@ -27,7 +27,7 @@ JWM attempts to conform to the ICCCM and supports both MWM hints and Extended Wi
 
 * <a href="http://joewing.net/projects/jwm/release-2.3.shtml">2.3.7</a>
 
-✓<strong>Comparison of memory consumption(</strong)
+✓<strong>Comparison of memory consumption</strong>
 
 <img src="http://www.auplod.com/u/ulopda7e9bd.png">
 
