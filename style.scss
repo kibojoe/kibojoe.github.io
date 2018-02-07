@@ -197,7 +197,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $white;
+  color: cccccc;
   cursor: pointer;
 
   font-family: Verdana,Helvetica,Arial,sans-serif;
@@ -207,7 +207,7 @@ img {
   letter-spacing: 1px;
   a {
     &:hover, &:active {
-      color: $lightGray;
+      color: ffffff;
       text-decoration: none;
     }
   }
@@ -215,7 +215,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #ffffff;
+  color: #cccccc;
   font-size: 14px;
 
   @include mobile {
