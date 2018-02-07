@@ -10,13 +10,13 @@ permalink: /download/
 
 Code 23118
 
-- Fixed some errors in JWM codification (thank you <strong>jlribeiro</strong> - Kibojoe Linux),
-- Fixed using the monitor brightness keys (thank you <strong>jlribeiro</strong> - Kibojoe Linux),
-- Fixed some errors in Pacli Package Manager codification (thank you <strong>excalibur1234</strong> - Manjaro Linux),
-- Fixed some errors notify-send and cron,
-- Adjustments in Theme Live Boot,
-- upnotifier script will look for updates every two hours,
-- gtk3-classic replace gtk3,
+- Fixed some errors in JWM codification (thank you <strong>jlribeiro</strong> - Kibojoe Linux).
+- Fixed using the monitor brightness keys (thank you <strong>jlribeiro</strong> - Kibojoe Linux).
+- Fixed some errors in Pacli Package Manager codification (thank you <strong>excalibur1234</strong> - Manjaro Linux).
+- Fixed some errors notify-send and cron.
+- Adjustments in Theme Live Boot.
+- upnotifier script will look for updates every two hours.
+- gtk3-classic replace gtk3.
 - Packages updates and some corrections (Stable Update Manjaro 2018-01-19).
 
 ✓<strong>Stable version</strong>
