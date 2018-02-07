@@ -25,23 +25,23 @@ Although JWM does not require them, it can use the following libraries if availa
 
 JWM attempts to conform to the ICCCM and supports both MWM hints and Extended Window Manager Hints (EWMH).
 
-<h3>Stable version (21/07/2017)</h3>
+✓<strong>Stable version (21/07/2017)</strong>
 
 * <a href="http://joewing.net/projects/jwm/release-2.3.shtml">2.3.7</a>
 
-<h3>Comparison of memory consumption</h3)
+✓<strong>Comparison of memory consumption</strong)
 
 <img src="http://www.auplod.com/u/ulopda7e9bd.png">
 
-<h3>Interesting sites</h3>
+✓<strong>Interesting sites</strong>
 
-* <a href="http://joewing.net/projects/jwm/index.shtml">JWM (inglês)</a>
-* <a href="http://joewing.net/projects/jwm/config.shtml">JWM Configurações (inglês)</a> 
-* <a href="https://wiki.archlinux.org/index.php/JWM">JWM Wiki ArchLinux (inglês)</a> 
-* <a href="https://extendedreality.wordpress.com/2013/10/03/window-managers-4-jwm-eng/">JWM Manual (inglês)</a>
-* <a href="https://extendedreality.wordpress.com/2013/09/30/window-managers-4-jwm/">JWM Manual (italiano)</a>
-* <a href="http://manualinux.eu/jwm.html">JWM Manual (espanhol)</a>
+- <a href="http://joewing.net/projects/jwm/index.shtml">JWM</a>
+- <a href="http://joewing.net/projects/jwm/config.shtml">JWM Configuration Settings</a> 
+- <a href="https://wiki.archlinux.org/index.php/JWM">JWM Wiki ArchLinux</a> 
+- <a href="https://extendedreality.wordpress.com/2013/10/03/window-managers-4-jwm-eng/">JWM Manual</a>
+- <a href="https://extendedreality.wordpress.com/2013/09/30/window-managers-4-jwm/">JWM Manual (italian)</a>
+- <a href="http://manualinux.eu/jwm.html">JWM Manual (spanish)</a>
 
-<h3>Support</h3>
+✓<strong>Support</strong>
 
 <p style="text-align: justify;">Can be by <a href="http://github.com/joewing/jwm/">GitHub</a> or <a href="http://forum.kibojoe.org/">Kibojoe Linux Forum</a>.</p>
