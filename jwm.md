@@ -8,7 +8,7 @@ permalink: /jwm/
 
 <p align="justify">JWM is a light-weight window manager for the X11 Window System. JWM is written in C and uses only Xlib at a minimum. Because of its small footprint, JWM makes a good window manager for older computers and less powerful systems, such as the Raspberry Pi, though it is perfectly capable of running on modern systems. JWM is included in small Linux distributions such as Puppy Linux and Damn Small Linux, and it is available as a separate package in many other distributions.</p>
 
-Although JWM does not require them, it can use the following libraries if available: 
+Although JWM (Joe’s Window Manager) does not require them, it can use the following libraries if available: 
 
 - libXext for the shape extension
 - libXext for the render extension

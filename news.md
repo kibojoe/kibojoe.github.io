@@ -29,23 +29,23 @@ permalink: /news/
 
 ✓<strong>Announcement Manjaro Linux</strong>
 
-- [2018-01-29] Stable Update I Manjaro Linux - Kernels, Mesa, Xorg-Server, Browsers, MSM, MHWD, <a href="https://forum.manjaro.org/t/stable-update-2018-01-29-kernels-mesa-xorg-server-browsers-msm-mhwd-gcc/39291" target="_blank">here</a>.
-- [2018-01-26] Stable Update I Manjaro Linux - Extramodules, Nvidia, Wine, Haskell, Python, <a href="https://forum.manjaro.org/t/stable-update-2018-01-26-extramodules-nvidia-wine-haskell-python/39059" target="_blank">here</a>.
-- [2018-01-19] Stable Update I Manjaro Linux - Kernels, KDE Apps & Framework, Browsers, <a href="https://manjaro.org/2018/01/19/stable-update-2018-01-19-kernels-kde-apps-framework-browsers-virtualbox-systemd-mesa/" target="_blank">here</a>.
-- [2018-01-12] Stable Update I Manjaro Linux - Kernels, Microcodes, Nvidia, Firefox, Boost, Cleanup, <a href="https://manjaro.org/2018/01/12/stable-update-2018-01-12-kernels-microcodes-nvidia-firefox-boost-cleanup/" target="_blank">here</a>.
-- [2018-01-07] Stable Update I Manjaro Linux - Browsers, Nvidia, PHP, Compiz, Adapta, <a href="https://manjaro.org/2018/01/07/stable-update-2018-01-07-browsers-nvidia-php-compiz-adapta/" target="_blank">here</a>.
-- [2018-01-05] Stable Update I Manjaro Linux - Kernels, KPTI, Plasma, Calamares, TLP, <a href="https://manjaro.org/2018/01/05/stable-update-2018-01-05-kernels-kpti-plasma-calamares-tlp/" target="_blank">here</a>.
-- [2017-12-31] Stable Update I Manjaro Linux - Kernels, Xorg-Server, Mesa, Compiz, Wine, Firefox, <a href="https://manjaro.org/2017/12/31/stable-update-2017-12-31-kernels-xorg-server-mesa-compiz-wine-firefox/" target="_blank">here</a>.
-- [2017-12-28] Stable Update I Manjaro Linux - Linux414, Calamares, Xorg-Server, Grub-Live-Theme, <a href="https://manjaro.org/2017/12/28/stable-update-2017-12-28-linux414-calamares-xorg-server-grub-live-theme/" target="_blank">here</a>.
-- [2017-12-26] Stable Update I Manjaro Linux - Kernels, Calamares, XFCE4-GTK3, Xorg-Server, QT, <a href="https://manjaro.org/2017/12/26/stable-update-2017-12-26-kernels-calamares-thunderbird-xfce4-gtk3-xorg-server-qt/" target="_blank">here</a>.
-- [2017-12-23] Stable Update I Manjaro Linux - Kernels, KDE-Apps, Cinnamon, Deepin, Xorg, <a href="https://manjaro.org/2017/12/23/stable-update-2017-12-23-kernels-kde-apps-cinnamon-deepin-xorg-libreoffice/" target="_blank">here</a>.
-- [2017-12-16] Stable Update I Manjaro Linux - Kernels, Mesa, Deepin, Firefox, Python, Haskell, <a href="https://manjaro.org/2017/12/16/stable-update-2017-12-16-kernels-mesa-deepin-firefox-python-haskell/" target="_blank">here</a>.
-- [2017-12-03] Stable Update I Manjaro Linux - Kernels, Mesa, Firefox, Thunderbird, Plasma5, <a href="https://manjaro.org/2017/12/03/stable-update-2017-12-03-kernels-mesa-firefox-thunderbird-plasma5/" target="_blank">here</a>.
-- [2017-11-25] Stable Update I Manjaro Linux - Kernels, Jade, VirtualBox, Deepin, Kernel v4.15, <a href="https://manjaro.org/2017/11/25/stable-update-2017-11-25-kernels-jade-virtualbox-deepin-kernel-v4-15/" target="_blank">here</a>.
-- [2017-11-19] Stable Update I Manjaro Linux - Kernels, Deepin, Python, Haskell, Firefox Quantum, <a href="https://manjaro.org/2017/11/19/stable-update-2017-11-19-kernels-deepin-python-haskell-firefox-quantum/" target="_blank">here</a>.
-- [2017-11-12] Stable Update I Manjaro Linux - Kernels, Plasma5, END OF LIFE for 32bit support , <a href="https://manjaro.org/2017/11/13/stable-update-2017-11-12-kernels-plasma5-deepin-cinnamon-end-of-life-for-32bit-support/" target="_blank">here</a>.
-- [2017-11-04] Stable Update I Manjaro Linux - Kernels, Gnome, Deepin, Mate, Mesa, Libreoffice, <a href="https://manjaro.org/2017/11/04/stable-update-2017-11-04-kernels-gnome-deepin-mate-mesa-libreoffice/" target="_blank">here</a>.
-- [2017-10-29] Stable Update I Manjaro Linux - KDE, Gnome, Deepin, Firefox, Mesa, <a href="https://manjaro.org/2017/10/29/stable-update-2017-10-29-kde-gnome-deepin-firefox-mesa/" target="_blank">here</a>.
+- <a href="https://forum.manjaro.org/t/stable-update-2018-01-29-kernels-mesa-xorg-server-browsers-msm-mhwd-gcc/39291" target="_blank">[2018-01-29] Stable Update I Manjaro Linux</a>.
+- <a href="https://forum.manjaro.org/t/stable-update-2018-01-26-extramodules-nvidia-wine-haskell-python/39059" target="_blank">[2018-01-26] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2018/01/19/stable-update-2018-01-19-kernels-kde-apps-framework-browsers-virtualbox-systemd-mesa/" target="_blank">[2018-01-19] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2018/01/12/stable-update-2018-01-12-kernels-microcodes-nvidia-firefox-boost-cleanup/" target="_blank">[2018-01-12] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2018/01/07/stable-update-2018-01-07-browsers-nvidia-php-compiz-adapta/" target="_blank">[2018-01-07] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2018/01/05/stable-update-2018-01-05-kernels-kpti-plasma-calamares-tlp/" target="_blank">[2018-01-05] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2017/12/31/stable-update-2017-12-31-kernels-xorg-server-mesa-compiz-wine-firefox/" target="_blank">[2017-12-31] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2017/12/28/stable-update-2017-12-28-linux414-calamares-xorg-server-grub-live-theme/" target="_blank">[2017-12-28] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2017/12/26/stable-update-2017-12-26-kernels-calamares-thunderbird-xfce4-gtk3-xorg-server-qt/" target="_blank">[2017-12-26] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2017/12/23/stable-update-2017-12-23-kernels-kde-apps-cinnamon-deepin-xorg-libreoffice/" target="_blank">[2017-12-23] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2017/12/16/stable-update-2017-12-16-kernels-mesa-deepin-firefox-python-haskell/" target="_blank">[2017-12-16] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2017/12/03/stable-update-2017-12-03-kernels-mesa-firefox-thunderbird-plasma5/" target="_blank">[2017-12-03] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2017/11/25/stable-update-2017-11-25-kernels-jade-virtualbox-deepin-kernel-v4-15/" target="_blank">[2017-11-25] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2017/11/19/stable-update-2017-11-19-kernels-deepin-python-haskell-firefox-quantum/" target="_blank">[2017-11-19] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2017/11/13/stable-update-2017-11-12-kernels-plasma5-deepin-cinnamon-end-of-life-for-32bit-support/" target="_blank">[2017-11-12] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2017/11/04/stable-update-2017-11-04-kernels-gnome-deepin-mate-mesa-libreoffice/" target="_blank">[2017-11-04] Stable Update I Manjaro Linux</a>.
+- <a href="https://manjaro.org/2017/10/29/stable-update-2017-10-29-kde-gnome-deepin-firefox-mesa/" target="_blank">[2017-10-29] Stable Update I Manjaro Linux</a>.
 - [2017-10-26] Stable Update I Manjaro Linux - Gnome, KDE, Deepin, LibreOffice, Firefox, Virtualbox, <a href="https://manjaro.org/2017/10/26/stable-update-2017-10-26-gnome-kde-deepin-libreoffice-firefox-wine-virtualbox/" target="_blank">here</a>.
 - [2017-10-09] Stable Update I Manjaro Linux - Kernels, Mesa, Xorg-Server, PHP, Python, Haskell, <a href="https://manjaro.org/2017/10/09/stable-update-2017-10-09-kernels-mesa-xorg-server-php-python-haskell/" target="_blank">here</a>.
 - [2017-09-30] Stable Update I Manjaro Linux - Timeshift, Nvidia, JADE, JDK9, Snap Support, <a href="https://manjaro.org/2017/09/30/stable-update-2017-09-30-timeshift-kernels-nvidia-jade-haskell-jdk9-snap-support/" target="_blank">here</a>.
@@ -76,4 +76,4 @@ permalink: /news/
 
 ✓<strong>Information JWM</strong>
 
-- [2017-07-21] Released JWM 2.3.7 <a href="http://forum.kibojoe.org/viewtopic.php?f=13&p=75&sid=32ff4c16d74b3461f85e2b669acac0ac#p75" target="_blank">here</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=13&p=75&sid=32ff4c16d74b3461f85e2b669acac0ac#p75" target="_blank">[2017-07-21] JWM</a>.
