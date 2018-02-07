@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Checking out Kibojoe Linux 17.09
+title: Checking out Kibojoe Linux 17.09 (MUG)
 ---
 
 <p style="text-align: justify;"><a href="https://www.youtube.com/channel/UCQpkMe-SLNg0HwWCP3eeTxw">Linux & Other Stuff</a> made an interesting video of Kibojoe 17.09 (codename MUG).</p> 

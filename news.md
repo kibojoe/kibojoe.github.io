@@ -8,24 +8,24 @@ permalink: /news/
 
 ✓<strong>Information Kibojoe Linux</strong>
 
-- [2018-01-23] Kibojoe Linux 18.02rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=128&p=339#p339" target="_blank">here</a>.
-- [2018-01-12] Kibojoe Linux 18.02rc1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=115&p=290#p290" target="_blank">here</a>.
-- [2017-12-02] Kibojoe Linux 17.09final is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&p=267#p267" target="_blank">here</a>.
-- [2017-11-16] Kibojoe Linux 17.09rc6 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=99&p=260#p260" target="_blank">here</a>.
-- [2017-10-02] Kibojoe Linux 17.09rc5 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=93&p=250#p250" target="_blank">here</a>.
-- [2017-10-19] Kibojoe Linux 17.09rc4 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=82&p=212#p212" target="_blank">here</a>.
-- [2017-10-02] Kibojoe Linux 17.09rc3 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=68&p=153#p153" target="_blank">here</a>.
-- [2017-09-15] Kibojoe Linux 17.09rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=61" target="_blank">here</a>.
-- [2017-08-19] Kibojoe Linux 17.09rc1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&p=96#p96" target="_blank">here</a>.
-- [2017-07-02] Kibojoe Linux 17.04final is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&p=58#p58" target="_blank">here</a>.
-- [2017-05-24] Kibojoe Linux 17.04pre1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=28&p=50#p50" target="_blank">here</a>.
-- [2017-05-18] Kibojoe Linux 17.04rc5 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=26&p=47#p47" target="_blank">here</a>.
-- [2017-05-08] Kibojoe Linux 17.04rc4 is ready, <a href="https://forum.manjaro.org/t/kibojoe-linux-manjaro-linux-re-spin-with-jwm-17-04rc4/21609/70" target="_blank">here</a>.
-- [2017-05-04] Kibojoe Linux 17.04rc3 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&p=35#p35" target="_blank">here</a>.
-- [2017-04-24] Kibojoe Linux 17.04rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=15" target="_blank">here</a>.
-- [2017-04-11] Kibojoe Linux 17.04rc1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=10&p=16#p16" target="_blank">here</a>.
-- [2017-03-31] Launch of <a href="http://forum.kibojoe.org/" target="_blank">forum</a> in phpBB platform.
-- [2017-03-20] Launch of IRC channel <a href="http://webchat.freenode.net/?channels=kibojoe" target="_blank">#kibojoe</a> in Freenode platform.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=128&p=339#p339" target="_blank">[2018-01-23] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=115&p=290#p290" target="_blank">[2018-01-12] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=11&p=267#p267" target="_blank">[2017-12-02] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=99&p=260#p260" target="_blank">[2017-11-16] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=93&p=250#p250" target="_blank">[2017-10-02] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=82&p=212#p212" target="_blank">[2017-10-19] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=68&p=153#p153" target="_blank">[2017-10-02] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=61" target="_blank">[2017-09-15] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=11&p=96#p96" target="_blank">[2017-08-19] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=3&p=58#p58" target="_blank">[2017-07-02] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=28&p=50#p50" target="_blank">[2017-05-24] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=26&p=47#p47" target="_blank">[2017-05-18] Kibojoe Linux</a>.
+- <a href="https://forum.manjaro.org/t/kibojoe-linux-manjaro-linux-re-spin-with-jwm-17-04rc4/21609/70" target="_blank">[2017-05-08] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=3&p=35#p35" target="_blank">[2017-05-04] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=15" target="_blank">[2017-04-24] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/viewtopic.php?f=3&t=10&p=16#p16" target="_blank">[2017-04-11] Kibojoe Linux</a>.
+- <a href="http://forum.kibojoe.org/" target="_blank">[2017-03-31] Kibojoe Linux</a>.
+- <a href="http://webchat.freenode.net/?channels=kibojoe" target="_blank">[2017-03-20] Kibojoe Linux</a>.
 
 ✓<strong>Announcement Manjaro Linux</strong>
 

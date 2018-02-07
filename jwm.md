@@ -4,8 +4,6 @@ title: JWM
 permalink: /jwm/
 ---
 
-<h3>JWM (Joe’s Window Manager)</h3>
-
 <img src="http://www.auplod.com/u/ludpoa7e9c0.png">
 
 <p align="justify">JWM is a light-weight window manager for the X11 Window System. JWM is written in C and uses only Xlib at a minimum. Because of its small footprint, JWM makes a good window manager for older computers and less powerful systems, such as the Raspberry Pi, though it is perfectly capable of running on modern systems. JWM is included in small Linux distributions such as Puppy Linux and Damn Small Linux, and it is available as a separate package in many other distributions.</p>
@@ -29,7 +27,7 @@ JWM attempts to conform to the ICCCM and supports both MWM hints and Extended Wi
 
 * <a href="http://joewing.net/projects/jwm/release-2.3.shtml">2.3.7</a>
 
-✓<strong>Comparison of memory consumption</strong)
+✓<strong>Comparison of memory consumption(</strong)
 
 <img src="http://www.auplod.com/u/ulopda7e9bd.png">
 
