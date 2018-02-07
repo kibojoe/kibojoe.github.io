@@ -25,7 +25,7 @@ Although JWM does not require them, it can use the following libraries if availa
 
 JWM attempts to conform to the ICCCM and supports both MWM hints and Extended Window Manager Hints (EWMH).
 
-✓<strong>Stable version (21/07/2017)</strong>
+✓<strong>Stable version (2017-07-21)</strong>
 
 * <a href="http://joewing.net/projects/jwm/release-2.3.shtml">2.3.7</a>
 
