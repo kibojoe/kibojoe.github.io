@@ -8,7 +8,7 @@ permalink: /news/
 
 ✓<strong>Information Kibojoe Linux</strong>
 
-- [2018-01-23] Kibojoe Linux 18.02rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=128&p=339#p339" target="_blank">here</a>.
+- <p style="text-align: justify;">[2018-01-23] Kibojoe Linux 18.02rc2 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=128&p=339#p339" target="_blank">here</a>.</p>
 - [2018-01-12] Kibojoe Linux 18.02rc1 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=115&p=290#p290" target="_blank">here</a>.
 - [2017-12-02] Kibojoe Linux 17.09final is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&p=267#p267" target="_blank">here</a>.
 - [2017-11-16] Kibojoe Linux 17.09rc6 is ready, <a href="http://forum.kibojoe.org/viewtopic.php?f=11&t=99&p=260#p260" target="_blank">here</a>.
