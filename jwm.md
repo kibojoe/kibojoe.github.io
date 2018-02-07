@@ -6,9 +6,9 @@ permalink: /jwm/
 
 <img src="http://www.auplod.com/u/ludpoa7e9c0.png">
 
-<p align="justify">JWM is a light-weight window manager for the X11 Window System. JWM is written in C and uses only Xlib at a minimum. Because of its small footprint, JWM makes a good window manager for older computers and less powerful systems, such as the Raspberry Pi, though it is perfectly capable of running on modern systems. JWM is included in small Linux distributions such as Puppy Linux and Damn Small Linux, and it is available as a separate package in many other distributions.</p>
+<p align="justify">JWM (Joe’s Window Manager) is a light-weight window manager for the X11 Window System. JWM is written in C and uses only Xlib at a minimum. Because of its small footprint, JWM makes a good window manager for older computers and less powerful systems, such as the Raspberry Pi, though it is perfectly capable of running on modern systems. JWM is included in small Linux distributions such as Puppy Linux and Damn Small Linux, and it is available as a separate package in many other distributions.</p>
 
-Although JWM (Joe’s Window Manager) does not require them, it can use the following libraries if available: 
+Although JWM does not require them, it can use the following libraries if available: 
 
 - libXext for the shape extension
 - libXext for the render extension
@@ -33,12 +33,12 @@ JWM attempts to conform to the ICCCM and supports both MWM hints and Extended Wi
 
 ✓<strong>Interesting sites</strong>
 
-- <a href="http://joewing.net/projects/jwm/index.shtml">JWM</a>
-- <a href="http://joewing.net/projects/jwm/config.shtml">JWM Configuration Settings</a> 
-- <a href="https://wiki.archlinux.org/index.php/JWM">JWM Wiki ArchLinux</a> 
-- <a href="https://extendedreality.wordpress.com/2013/10/03/window-managers-4-jwm-eng/">JWM Manual</a>
-- <a href="https://extendedreality.wordpress.com/2013/09/30/window-managers-4-jwm/">JWM Manual (italian)</a>
-- <a href="http://manualinux.eu/jwm.html">JWM Manual (spanish)</a>
+- <a href="http://joewing.net/projects/jwm/index.shtml">JWM</a>.
+- <a href="http://joewing.net/projects/jwm/config.shtml">JWM Configuration Settings</a>. 
+- <a href="https://wiki.archlinux.org/index.php/JWM">JWM Wiki ArchLinux</a>. 
+- <a href="https://extendedreality.wordpress.com/2013/10/03/window-managers-4-jwm-eng/">JWM Manual</a>.
+- <a href="https://extendedreality.wordpress.com/2013/09/30/window-managers-4-jwm/">JWM Manual (italian)</a>.
+- <a href="http://manualinux.eu/jwm.html">JWM Manual (spanish)</a>.
 
 ✓<strong>Support</strong>
 
