@@ -1,2 +1,1 @@
-# holmeslinux.github.io
-Holmes site has the objective of publicize the Manjaro Linux and the JWM (Joe’s Window Manager).
+This is the source for Kibojoe's website hosted on https://kibojoe.github.io > https://kibojoe.org.
