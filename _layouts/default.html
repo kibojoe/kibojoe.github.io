@@ -1,68 +1,62 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
-    {% include meta.html %}
-
+  <link rel="stylesheet" href="http://github-profile.com/dist/gh-profile-card.min.css" />
+  <script type="text/javascript" src="http://github-profile.com/dist/gh-profile-card.min.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ site.title }} - {% endif %}{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="keywords" content="unix, linux, gnu, manjaro, arch, kibojoe, jwm">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic">
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/pygment_style.css">
+    <script src="/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-
-    <link href='//fonts.googleapis.com/css?family=Lato:400,700|Raleway:400,700|Helvetica:700' rel='stylesheet' type='text/css'>
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-
-    <!-- Fav and touch icons -->
-    <!-- Update these with your own images -->
-      <link rel="shortcut icon" href="images/favicon.ico">
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Home</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-	    <a href="{{ site.baseurl }}/team">Team</a>
-	    <a href="{{ site.baseurl }}/download">Download</a>
-	    <a href="{{ site.baseurl }}/support">Support</a>
-	    <a href="{{ site.baseurl }}/repository">Repository</a>
-            <a href="{{ site.baseurl }}/jwm">JWM</a>
-	    <a href="https://github.com/kibojoe/build-iso/issues">Issues</a>
-            <a href="{{ site.baseurl }}/news">News</a>    
-         </nav>
-        </header>
-      </div>
-    </div>
-    <div class="green-stripe"></div> <!-- Add green stripe bellow the header area -->
-
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-          <p>All trademarks and registered trademarks are the property of their respective owners.</p>
-        </footer>
-      </div>
-    </div>
-
     {% include analytics.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">
+          <a href="/index.html">Kibojoe Linux</a>
+        </h1>
+        <p class="header">Minimal, Fast and Elegant!</p>
+
+        <!--Mobile friendly links-->
+        <p class="view">
+          <a href="/news.html">Read The News</a>
+        </p>
+        
+        <!--Desktop friendly links-->
+        <ul>
+          <li><a href="/news.html"><strong>News</strong></a></li>
+          <li><a href="/team.html"><strong>Team</strong></a></li>          
+          <li><a href="/download.html"><strong>Download</strong></a></li>
+          <li><a href="/repository.html"><strong>Repository</strong></a></li>
+          <li><a href="/support.html"><strong>Support</strong></a></li>
+          <li><a href="https://github.com/kibojoe/build/issues" target="_blank"><strong>Issues</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+    </div>
+    <footer>
+      <p>Hosted on <a href="http://pages.github.com">GitHub Pages</a> using Modernist theme by <a href="https://github.com/orderedlist">orderedlist</a>,
+      customized by Holmes.</p>
+      <a href="https://github.com/kibojoe" target="_blank"><img title="GitHub Kibojoe Linux" alt="Github" height="30"
+      src="/img/github.png" width="30"></a> <a href="https://sourceforge.net/projects/kibojoe/" target="_blank"><img title="SourceForge Kibojoe Linux" alt="SourceForge" height="30"
+      src="/img/sf.png" width="30"></a> <a href="https://manjaro.org/" target="_blank"><img title="Manjaro Linux" alt="Manjaro Linux" height="28"
+      src="/img/manjaro.png" width="28"></a> <a href="http://joewing.net/projects/jwm" target="_blank"><img title="JWM" alt="JWM" height="28"
+      src="/img/jwm.png" width="54"></a> <a href="https://www.archlinux.org" target="_blank"><img title="ArchLinux" alt="ArchLinux" height="30"
+      src="/img/arch.png" width="30"></a>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
   </body>
 </html>
